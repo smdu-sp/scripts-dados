@@ -1,0 +1,2 @@
+chave_tabela_bi: processo
+chave_tabela_a_comaprar: n_processo

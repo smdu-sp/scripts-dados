@@ -1,0 +1,417 @@
+dt_abertura,n_processos,n_protocolo,assunto,aditivo,tipo_requerimento,competencia,unidade,status
+2012-10-10 16:54:55,2012-0.292.419-7,757-12,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2012-10-19 12:01:25,2012-0.300.546-2,1537-12,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2012-10-23 12:07:05,2012-0.303.353-9,1927-12,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2012-10-23 12:07:47,2012-0.303.361-0,1379-12,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2012-10-23 12:08:35,2012-0.303.364-4,326-14,Alvará de Aprovação de Edificação Nova,Inicial,Reconsideração,SMUL,COMIN,Em Análise
+2012-10-24 12:03:08,2012-0.304.839-0,969-12,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2012-10-26 12:04:23,2012-0.307.539-8,2109-12,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2012-10-29 15:47:58,2012-0.309.320-5,1194-12,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2012-10-30 12:00:53,2012-0.310.021-0,2218-12,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2012-10-30 12:04:45,2012-0.310.057-0,2326-12,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2012-11-05 11:37:28,2012-0.314.205-2,1366-12,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2012-11-06 12:06:50,2012-0.316.076-0,2575-12,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2012-11-22 17:58:51,2012-0.327.727-6,1673-12,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2012-11-22 18:30:36,2012-0.327.961-9,2859-12,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2012-11-23 12:01:38,2012-0.328.463-9,4011-12,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2012-11-23 12:02:31,2012-0.328.474-4,3902-12,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2012-11-28 17:24:07,2012-0.333.555-1,2322-12,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2012-11-30 12:19:54,2012-0.335.464-5,3854-12,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2012-12-05 12:03:01,2012-0.339.617-8,4341-12,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2012-12-06 12:09:27,2012-0.340.991-1,4505-12,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2012-12-07 12:11:52,2012-0.342.446-5,4956-12,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2012-12-07 12:15:32,2012-0.342.471-6,5100-12,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2012-12-07 12:15:32,2012-0.342.471-6,6929-13,Alvará de Aprovação de Reforma,Inicial,Reconsideração,SMUL,COMIN,Indeferido
+2012-12-11 12:02:14,2012-0.344.951-4,4594-12,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2012-12-12 12:00:59,2012-0.346.329-0,4834-12,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2012-12-13 12:08:25,2012-0.347.764-0,4565-12,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2012-12-19 14:13:38,2012-0.353.341-8,4234-12,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2012-12-19 14:29:20,2012-0.353.378-7,5424-12,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2012-12-20 07:27:23,2012-0.353.814-2,4693-12,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2012-12-20 12:13:53,2012-0.354.365-0,5366-12,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2012-12-21 12:01:26,2012-0.355.879-8,5941-12,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2012-12-21 12:05:53,2012-0.355.925-5,6213-12,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2012-12-27 12:09:37,2012-0.357.896-9,5601-12,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2012-12-28 12:02:10,2012-0.358.870-0,6634-12,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2012-12-28 12:02:21,2012-0.358.874-3,6754-12,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2012-12-28 12:06:14,2012-0.358.920-0,6621-12,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2012-12-28 12:09:09,2012-0.358.943-0,5890-12,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-01-08 12:01:15,2013-0.005.552-5,7052-12,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-01-08 17:23:57,2013-0.006.353-6,6177-12,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-01-08 17:37:01,2013-0.006.359-5,4356-12,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-01-09 12:03:20,2013-0.006.748-5,16-13,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-01-09 12:06:11,2013-0.006.770-1,6602-12,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-01-09 12:08:49,2013-0.006.781-7,34-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-01-11 12:05:28,2013-0.009.509-8,5938-12,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-01-16 15:42:20,2013-0.014.337-8,443-13,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-01-16 15:44:46,2013-0.014.353-0,6550-12,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-01-18 13:39:15,2013-0.016.683-1,22947-13,Alvará de Aprovação de Edificação Nova,Inicial,Reconsideração,SMUL,COMIN,Indeferido
+2013-01-18 13:50:11,2013-0.016.723-4,490-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-01-18 13:58:57,2013-0.016.772-2,352-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-01-19 14:37:05,2013-0.017.490-7,477-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-01-19 14:38:12,2013-0.017.504-0,6102-12,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-01-19 14:38:21,2013-0.017.506-7,770-13,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-01-22 12:05:46,2013-0.019.903-9,492-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-01-23 12:01:00,2013-0.021.645-6,959-13,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-01-24 12:03:08,2013-0.023.387-3,136-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-01-24 14:38:13,2013-0.023.701-1,1204-13,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-01-30 14:37:36,2013-0.028.352-8,1275-13,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-02-04 14:35:57,2013-0.033.578-1,6362-12,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-02-04 14:53:10,2013-0.033.696-6,1111-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-02-05 12:01:11,2013-0.035.043-8,1210-13,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-02-05 12:01:11,2013-0.035.043-8,41571-16,Alvará de Execução de Reforma,Inicial,Reconsideração,SMUL,COMIN,Em Análise
+2013-02-05 12:01:24,2013-0.035.045-4,1178-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-02-05 12:05:15,2013-0.035.081-0,1428-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-02-05 12:09:32,2013-0.035.130-2,1130-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-02-07 12:03:04,2013-0.038.570-3,448-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-02-07 12:06:03,2013-0.038.618-1,1805-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-02-14 12:01:10,2013-0.042.272-2,2338-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-02-14 12:04:29,2013-0.042.317-6,2284-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-02-15 12:03:28,2013-0.043.791-6,6663-12,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-02-15 12:05:38,2013-0.043.810-6,1269-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-02-15 12:06:43,2013-0.043.819-0,2434-13,Alvará de Remembramento de Lote,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-02-19 12:07:42,2013-0.046.937-0,2448-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-02-21 12:02:11,2013-0.050.507-5,2902-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-02-21 12:05:42,2013-0.050.530-0,6130-12,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-02-22 12:01:47,2013-0.052.008-2,4797-12,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-02-22 12:02:17,2013-0.052.014-7,2959-13,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-02-23 12:02:22,2013-0.053.027-4,3159-13,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-02-23 12:02:37,2013-0.053.028-2,3182-13,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-02-23 12:02:37,2013-0.053.029-0,3184-13,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-02-23 12:04:53,2013-0.053.046-0,2008-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-02-23 12:05:01,2013-0.053.047-9,2007-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-02-23 12:05:14,2013-0.053.049-5,2009-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-02-26 12:04:23,2013-0.055.179-4,3127-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-02-27 12:01:37,2013-0.056.784-4,3296-13,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-02-27 12:03:03,2013-0.056.795-0,2641-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-02-28 08:55:07,2013-0.057.888-9,1952-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-02-28 12:02:20,2013-0.058.495-1,2354-13,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-03-05 12:01:51,2013-0.063.095-3,3181-13,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-03-05 12:08:54,2013-0.063.159-3,2571-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-03-05 12:10:05,2013-0.063.173-9,3480-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-03-05 12:12:15,2013-0.063.200-0,3563-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-03-16 12:01:18,2013-0.075.769-4,4216-13,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-03-16 12:04:38,2013-0.075.791-0,4847-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-03-18 16:44:10,2013-0.077.007-0,2610-13,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-03-19 11:07:41,2013-0.077.523-4,3092-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-03-19 11:25:37,2013-0.077.593-5,3476-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-03-19 12:14:53,2013-0.077.771-7,3755-13,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-03-19 12:15:07,2013-0.077.773-3,3756-13,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-03-19 12:15:22,2013-0.077.776-8,3757-13,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-03-19 14:15:45,2013-0.078.100-5,3820-13,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-03-19 14:50:53,2013-0.078.272-9,4046-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-03-20 13:10:04,2013-0.079.523-5,4506-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-03-21 12:09:22,2013-0.081.140-0,2220-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-03-22 14:14:58,2013-0.083.158-4,4661-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-03-22 14:15:19,2013-0.083.161-4,4657-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-03-22 14:17:14,2013-0.083.180-0,5070-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-03-22 15:13:11,2013-0.083.332-3,5017-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-03-22 15:20:08,2013-0.083.390-0,5289-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-03-27 14:19:48,2013-0.086.588-8,2761-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-03-28 12:08:49,2013-0.088.664-8,5638-13,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-03-28 12:10:37,2013-0.088.680-0,5825-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-03-28 12:15:04,2013-0.088.722-9,5378-13,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-03-28 12:17:56,2013-0.088.753-9,5632-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-03-29 12:01:06,2013-0.090.148-5,3969-13,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-04-03 09:45:00,2013-0.093.507-0,5717-13,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-04-03 10:27:25,2013-0.093.694-7,4091-13,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-04-03 11:55:53,2013-0.094.128-2,2518-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-04-03 11:56:30,2013-0.094.131-2,2148-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-04-03 12:03:12,2013-0.094.180-0,5076-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-04-03 12:11:10,2013-0.094.226-2,5753-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-04-03 12:13:28,2013-0.094.245-9,5894-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-04-03 12:13:44,2013-0.094.248-3,42052-16,Alvará de Execução de Reforma,Inicial,Reconsideração,SMUL,COMIN,Em Análise
+2013-04-03 12:13:44,2013-0.094.248-3,5903-13,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-04-05 12:05:32,2013-0.097.558-6,5787-13,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-04-05 12:06:39,2013-0.097.574-8,6090-13,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-04-05 12:10:03,2013-0.097.619-1,5966-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-04-05 12:11:57,2013-0.097.642-6,6293-13,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-04-10 16:02:45,2013-0.102.692-8,6407-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-04-10 16:23:01,2013-0.102.774-6,6433-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-04-10 16:27:51,2013-0.102.794-0,6117-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-04-11 12:04:50,2013-0.103.639-7,6493-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Em Análise
+2013-04-11 12:10:44,2013-0.103.684-2,6683-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-04-12 12:04:27,2013-0.105.065-9,6712-13,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-04-17 12:00:42,2013-0.109.484-2,40423-16,Alvará de Execução de Edificação Nova,Inicial,Reconsideração,SMUL,COMIN,Em Análise
+2013-04-17 12:00:42,2013-0.109.484-2,1830-13,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-04-17 12:04:54,2013-0.109.519-9,6489-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-04-17 12:05:36,2013-0.109.525-3,6692-13,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-04-17 13:39:21,2013-0.109.758-2,6895-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2013-04-17 13:43:11,2013-0.109.795-7,7150-13,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-04-17 14:19:28,2013-0.109.917-8,7201-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-04-18 12:04:31,2013-0.111.147-0,7009-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2013-04-18 12:11:02,2013-0.111.201-8,29797-14,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-04-24 12:03:55,2013-0.117.379-3,7100-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-04-24 12:06:10,2013-0.117.402-1,7288-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Em Análise
+2013-04-24 13:34:01,2013-0.117.722-5,7073-13,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-04-24 13:37:14,2013-0.117.740-3,7345-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2013-04-25 12:01:35,2013-0.119.011-6,6567-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-04-25 12:18:56,2013-0.119.116-3,7553-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-04-25 12:24:12,2013-0.119.148-1,7599-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-04-26 12:09:23,2013-0.120.716-7,8039-13,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-04-26 12:10:51,2013-0.120.724-8,8110-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-04-27 12:04:08,2013-0.121.588-7,7973-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-04-27 12:05:42,2013-0.121.599-2,8080-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-04-27 12:07:47,2013-0.121.611-5,7976-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-05-07 15:16:38,2013-0.130.646-7,8147-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-05-07 15:21:10,2013-0.130.665-3,8274-13,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-05-07 15:23:02,2013-0.130.687-4,8290-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-05-07 15:25:00,2013-0.130.708-0,8351-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-05-09 12:03:32,2013-0.133.157-7,8164-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-05-09 14:05:05,2013-0.133.512-2,8506-13,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-05-09 14:29:15,2013-0.133.607-2,8730-13,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-05-11 12:01:23,2013-0.135.751-7,6777-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-05-11 12:03:35,2013-0.135.764-9,8698-13,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-05-16 12:03:15,2013-0.140.806-5,7131-13,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-05-16 14:14:26,2013-0.141.212-7,9175-13,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-05-16 14:18:21,2013-0.141.246-1,9286-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-05-21 12:06:00,2013-0.145.274-9,9605-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-05-22 12:06:13,2013-0.146.864-5,9684-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-05-25 12:03:36,2013-0.150.413-7,9162-13,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-05-28 15:17:35,2013-0.152.813-3,10031-13,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-06-06 12:02:46,2013-0.159.652-0,10178-13,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-06-06 12:05:08,2013-0.159.669-4,10425-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Em Análise
+2013-06-06 12:10:47,2013-0.159.735-6,10210-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-06-06 12:11:27,2013-0.159.742-9,10182-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-06-06 12:11:49,2013-0.159.746-1,10204-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-06-13 12:02:59,2013-0.167.378-8,10561-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-06-13 12:03:35,2013-0.167.385-0,10532-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2013-06-13 15:19:58,2013-0.168.002-4,10595-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-06-13 15:20:43,2013-0.168.009-1,10870-13,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-06-18 13:37:21,2013-0.171.895-1,11234-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-06-20 12:04:04,2013-0.174.482-0,11103-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-06-25 11:15:12,2013-0.178.536-5,11036-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-07-01 14:52:18,2013-0.185.054-0,11000-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-07-02 12:06:36,2013-0.186.346-3,12237-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-07-02 18:59:33,2013-0.187.532-1,10908-13,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-07-03 12:01:47,2013-0.188.343-0,11570-13,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-07-03 12:05:59,2013-0.188.365-0,12391-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2013-07-03 16:28:01,2013-0.189.175-0,9420-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2013-07-03 20:05:54,2013-0.189.402-4,11361-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Em Análise
+2013-07-03 20:17:15,2013-0.189.420-2,11773-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Em Análise
+2013-07-04 10:13:51,2013-0.189.643-4,11558-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-07-04 10:15:31,2013-0.189.656-6,11519-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-07-04 10:21:23,2013-0.189.689-2,11449-13,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2013-07-04 11:04:41,2013-0.189.804-6,11638-13,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-07-04 12:03:35,2013-0.189.966-2,12518-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-07-05 12:02:08,2013-0.191.628-1,12095-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-07-05 12:09:30,2013-0.191.678-8,12859-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-07-12 08:58:02,2013-0.196.086-8,13167-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-07-19 12:02:46,2013-0.204.249-8,13421-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-07-25 12:05:45,2013-0.209.876-0,13468-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Em Análise
+2013-07-25 12:17:33,2013-0.209.922-8,13503-13,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-08-22 08:59:53,2013-0.239.005-4,13638-13,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-08-22 09:00:22,2013-0.239.007-0,13657-13,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-08-22 09:00:48,2013-0.239.008-9,14423-13,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-08-22 09:01:12,2013-0.239.010-0,14186-13,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-08-22 09:01:13,2013-0.239.011-9,14022-13,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-08-22 09:01:57,2013-0.239.014-3,12786-13,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-08-22 09:07:15,2013-0.239.025-9,15682-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-08-22 09:09:00,2013-0.239.035-6,13525-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-08-22 09:09:01,2013-0.239.036-4,13863-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-08-22 09:09:26,2013-0.239.039-9,11666-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Em Análise
+2013-08-22 09:13:04,2013-0.239.060-7,14298-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-08-22 09:21:40,2013-0.239.080-1,14803-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Em Análise
+2013-08-22 10:43:19,2013-0.239.343-6,11464-13,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-08-28 12:02:34,2013-0.246.140-7,16057-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-08-28 12:09:53,2013-0.246.195-4,16055-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-08-28 12:37:42,2013-0.246.305-1,16937-13,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-08-29 12:01:32,2013-0.247.892-0,15300-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-08-29 12:04:21,2013-0.247.918-7,15257-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2013-09-14 12:02:57,2013-0.268.000-1,17662-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-09-14 12:15:04,2013-0.268.041-9,18395-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-09-14 12:22:54,2013-0.268.068-0,18488-13,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-09-24 12:06:42,2013-0.279.533-0,19213-13,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-09-25 12:01:20,2013-0.281.509-8,16774-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2013-09-26 12:17:51,2013-0.283.461-0,19569-13,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-10-05 12:04:31,2013-0.296.156-6,20371-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2013-10-08 12:17:59,2013-0.298.970-3,21112-13,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-10-10 12:15:59,2013-0.302.696-8,20504-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-10-17 12:52:29,2013-0.310.243-5,21018-13,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-10-19 12:04:41,2013-0.312.440-4,22534-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Em Análise
+2013-10-22 12:03:20,2013-0.314.236-4,22339-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-10-22 12:04:55,2013-0.314.247-0,22779-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2013-10-24 12:04:27,2013-0.317.536-0,23006-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-10-26 12:10:05,2013-0.320.134-4,23390-13,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Em Análise
+2013-11-06 12:07:03,2013-0.330.628-6,23538-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-11-06 12:07:31,2013-0.330.630-8,23582-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2013-11-06 12:11:10,2013-0.330.660-0,23905-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-11-06 12:12:03,2013-0.330.667-7,23974-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-11-06 12:12:03,2013-0.330.667-7,41998-16,Alvará de Aprovação de Edificação Nova,Inicial,Reconsideração,SMUL,COMIN,Em Análise
+2013-11-06 12:58:32,2013-0.330.892-0,18265-13,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-11-07 12:04:43,2013-0.332.037-8,24126-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-11-08 12:13:38,2013-0.333.616-9,24448-13,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-11-26 12:21:42,2013-0.348.403-6,24997-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Em Análise
+2013-11-29 16:22:51,2013-0.353.527-7,25290-13,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-11-30 12:03:12,2013-0.353.703-2,25939-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-12-03 16:07:55,2013-0.356.525-7,25080-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-12-03 16:12:49,2013-0.356.552-4,24821-13,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-12-06 09:49:17,2013-0.359.959-3,26416-13,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Em Análise
+2013-12-06 12:01:36,2013-0.360.415-5,24201-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-12-10 11:56:39,2013-0.363.191-8,24721-13,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-12-11 10:23:10,2013-0.364.365-7,25371-13,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-12-11 10:25:23,2013-0.364.376-2,25070-13,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-12-11 12:06:05,2013-0.364.790-3,27002-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2013-12-12 12:12:30,2013-0.366.411-5,26925-13,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-12-16 16:37:17,2013-0.369.758-7,26184-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-12-17 12:05:46,2013-0.370.551-2,27240-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Em Análise
+2013-12-20 12:09:29,2013-0.375.766-0,28003-13,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Em Análise
+2013-12-26 07:08:16,2013-0.378.099-9,27860-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2013-12-30 16:26:39,2013-0.380.644-0,24882-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-01-04 12:04:18,2014-0.001.781-1,27624-13,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-01-17 12:05:46,2014-0.015.016-3,863-14,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-01-17 12:09:04,2014-0.015.043-0,337-14,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-01-22 12:02:43,2014-0.019.390-3,562-14,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Em Análise
+2014-01-29 12:32:14,2014-0.027.467-9,1695-14,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-02-03 09:11:11,2014-0.031.237-6,15830-13,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-02-08 12:18:05,2014-0.038.884-4,1671-14,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-02-10 08:44:38,2014-0.039.035-0,2118-14,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-02-10 08:53:55,2014-0.039.112-8,2627-14,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-02-10 09:03:54,2014-0.039.201-9,1691-14,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-02-10 14:51:07,2014-0.040.198-0,986-14,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2014-02-12 12:26:03,2014-0.042.905-2,616-14,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-03-06 12:12:15,2014-0.063.948-0,5302-14,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-03-13 12:09:21,2014-0.071.356-7,5924-14,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-03-14 12:02:56,2014-0.072.783-5,6176-14,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-03-26 12:07:11,2014-0.084.919-1,42970-16,Alvará de Aprovação de Edificação Nova,Inicial,Reconsideração,SMUL,COMIN,Em Análise
+2014-03-26 12:07:11,2014-0.084.919-1,7548-14,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-03-27 12:02:39,2014-0.086.543-0,7510-14,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-04-02 12:08:43,2014-0.093.526-8,6239-14,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-04-03 12:10:08,2014-0.095.323-1,8640-14,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-04-03 12:10:17,2014-0.095.324-0,8671-14,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-04-03 12:14:53,2014-0.095.347-9,57-17,Alvará de Execução de Edificação Nova,Inicial,Reconsideração,SMUL,COMIN,Em Análise
+2014-04-03 12:14:53,2014-0.095.347-9,8606-14,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-04-11 12:01:33,2014-0.105.152-5,9391-14,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2014-04-24 12:01:37,2014-0.115.614-9,10581-14,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-04-24 12:01:37,2014-0.115.614-9,40323-16,Alvará de Aprovação de Reforma,Inicial,Reconsideração,SMUL,COMIN,Em Análise
+2014-04-29 12:05:42,2014-0.120.501-8,11149-14,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-04-30 12:05:44,2014-0.121.832-2,11273-14,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-05-07 12:12:26,2014-0.126.908-3,11496-14,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2014-05-07 12:40:00,2014-0.126.993-8,10418-14,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2014-05-08 12:12:37,2014-0.128.750-2,11987-14,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-05-14 12:07:14,2014-0.134.983-4,9966-14,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2014-05-14 12:09:20,2014-0.135.012-3,12226-14,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-05-14 12:40:50,2014-0.135.126-0,12601-14,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-05-15 12:29:29,2014-0.136.707-7,12152-14,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-05-23 12:01:12,2014-0.144.892-1,13445-14,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-05-23 12:01:27,2014-0.144.896-4,13572-14,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Em Análise
+2014-05-23 12:02:50,2014-0.144.909-0,13601-14,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-05-28 12:02:54,2014-0.149.521-0,11107-14,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-05-29 12:15:35,2014-0.151.122-4,11408-14,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-05-30 12:05:44,2014-0.152.275-7,13994-14,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2014-05-30 12:08:03,2014-0.152.300-1,14000-14,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2014-05-30 12:16:32,2014-0.152.355-9,14360-14,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Em Análise
+2014-06-04 12:04:24,2014-0.156.932-0,14157-14,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-06-05 12:06:31,2014-0.158.463-9,14614-14,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2014-06-06 12:03:04,2014-0.159.687-4,12881-14,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2014-06-09 12:31:02,2014-0.160.871-6,15115-14,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-06-10 12:33:03,2014-0.162.193-3,15114-14,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-06-11 12:00:58,2014-0.163.831-3,13698-14,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-06-30 12:23:23,2014-0.177.394-6,15594-14,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2014-06-30 13:19:53,2014-0.177.587-6,13569-14,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2014-07-02 12:05:46,2014-0.180.698-4,17049-14,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-07-02 12:05:46,2014-0.180.698-4,33360-14,Alvará de Aprovação de Edificação Nova,Inicial,Reconsideração,SMUL,COMIN,Indeferido
+2014-07-02 12:13:57,2014-0.180.756-5,16555-14,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2014-07-04 12:01:33,2014-0.184.120-8,17480-14,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2014-07-04 12:26:54,2014-0.184.147-0,17517-14,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-07-07 12:25:27,2014-0.184.692-7,17734-14,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2014-07-07 12:27:17,2014-0.184.696-0,17787-14,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-07-07 12:27:17,2014-0.184.696-0,40391-16,Alvará de Execução de Edificação Nova,Inicial,Reconsideração,SMUL,COMIN,Em Análise
+2014-07-21 12:05:36,2014-0.197.425-9,18526-14,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-07-22 12:02:53,2014-0.199.030-0,19210-14,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-07-25 15:28:48,2014-0.204.371-2,16175-14,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-07-28 12:14:15,2014-0.205.359-9,19837-14,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-08-04 12:01:55,2014-0.213.217-0,20421-14,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2014-08-15 16:33:55,2014-0.227.559-1,20912-14,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-08-15 18:19:42,2014-0.227.741-1,21052-14,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-08-18 12:10:46,2014-0.228.550-3,20024-14,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2014-09-09 12:02:42,2014-0.253.470-8,24660-14,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Em Análise
+2014-09-12 12:01:40,2014-0.257.876-4,25314-14,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-09-17 12:01:48,2014-0.262.564-9,25409-14,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-09-24 12:04:42,2014-0.269.996-0,26625-14,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-09-24 12:52:05,2014-0.270.120-5,26682-14,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2014-09-29 12:01:11,2014-0.274.823-6,42721-16,Alvará de Aprovação de Reforma,Inicial,Reconsideração,SMUL,COMIN,Em Análise
+2014-09-29 12:01:11,2014-0.274.823-6,26732-14,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-10-07 12:16:23,2014-0.283.289-0,28141-14,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-10-07 12:20:22,2014-0.283.307-1,28190-14,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-10-07 12:50:27,2014-0.283.399-3,42744-16,Alvará de Execução de Reforma,Inicial,Reconsideração,SMUL,COMIN,Em Análise
+2014-10-07 12:50:27,2014-0.283.399-3,28274-14,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-10-08 12:03:03,2014-0.284.548-7,28436-14,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Em Análise
+2014-10-10 12:03:48,2014-0.287.360-0,28843-14,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-10-20 13:56:17,2014-0.295.226-7,29418-14,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-10-22 18:02:33,2014-0.298.751-6,29970-14,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Em Análise
+2014-10-27 18:03:06,2014-0.303.418-0,28567-14,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Em Análise
+2014-10-28 18:06:05,2014-0.305.150-6,30624-14,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-11-04 18:02:39,2014-0.311.562-8,30684-14,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-11-10 14:39:45,2014-0.317.639-2,31181-14,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2014-11-10 14:39:57,2014-0.317.640-6,30814-14,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2014-11-11 19:01:14,2014-0.320.016-1,31754-14,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-11-14 18:01:47,2014-0.324.504-1,32840-14,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2014-11-24 14:29:18,2014-0.329.589-8,33518-14,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-11-25 19:23:48,2014-0.331.424-8,33818-14,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Em Análise
+2014-11-27 18:01:38,2014-0.334.052-4,31653-14,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Em Análise
+2014-11-27 18:24:05,2014-0.334.069-9,33506-14,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2014-12-15 18:02:40,2014-0.350.930-8,36208-14,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-12-15 18:09:40,2014-0.350.977-4,35011-14,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-12-18 18:35:23,2014-0.355.084-7,35008-14,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Em Análise
+2014-12-23 18:08:19,2014-0.358.471-7,37366-14,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2014-12-30 15:11:14,2014-0.360.317-7,37273-14,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2015-01-05 12:32:30,2015-0.000.797-4,37557-14,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Em Análise
+2015-01-30 18:01:38,2015-0.025.719-9,1750-15,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2015-02-04 18:01:30,2015-0.030.022-1,41663-16,Alvará de Aprovação de Reforma,Inicial,Reconsideração,SMUL,COMIN,Em Análise
+2015-02-04 18:01:30,2015-0.030.022-1,2805-15,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2015-02-04 18:51:05,2015-0.030.067-1,3272-15,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Em Análise
+2015-02-10 18:19:13,2015-0.035.776-2,424-15,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2015-02-13 18:01:42,2015-0.040.112-5,1157-15,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2015-02-23 18:02:52,2015-0.045.642-6,5821-15,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2015-02-23 18:17:42,2015-0.045.674-4,5280-15,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2015-02-23 19:17:42,2015-0.045.674-4,41672-16,Alvará de Execução de Reforma,Inicial,Reconsideração,SMUL,COMIN,Em Análise
+2015-02-27 18:45:00,2015-0.051.683-6,6814-15,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2015-02-27 19:04:56,2015-0.051.689-5,3783-15,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2015-03-03 18:09:24,2015-0.054.733-2,7158-15,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2015-03-05 18:03:23,2015-0.057.809-2,7495-15,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2015-03-05 18:03:55,2015-0.057.811-4,5695-15,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2015-03-05 18:05:29,2015-0.057.820-3,7339-15,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2015-03-12 18:39:45,2015-0.065.402-3,8380-15,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Processo Físico
+2015-03-13 18:30:44,2015-0.066.653-6,8384-15,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2015-03-19 18:27:27,2015-0.072.067-0,8394-15,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2015-03-20 18:04:18,2015-0.073.351-9,9393-15,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Em Análise
+2015-03-26 18:02:35,2015-0.079.439-9,9800-15,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Em Análise
+2015-03-26 18:04:18,2015-0.079.460-7,8182-15,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2015-03-26 18:04:32,2015-0.079.466-6,8589-15,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Em Análise
+2015-04-06 19:54:11,2015-0.087.891-6,11172-15,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Em Análise
+2015-04-06 19:54:26,2015-0.087.893-2,11147-15,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2015-04-10 18:02:03,2015-0.093.367-4,10279-15,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2015-04-10 18:47:11,2015-0.093.404-2,11253-15,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Em Análise
+2015-04-17 18:04:45,2015-0.100.720-0,13374-15,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2015-04-27 18:48:50,2015-0.107.186-2,14207-15,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2015-04-30 18:41:42,2015-0.112.297-1,14631-15,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2015-05-07 09:34:11,2015-0.117.216-2,9989-15,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2015-05-12 14:28:04,2015-0.122.503-7,14491-15,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2015-05-12 15:34:15,2015-0.122.563-0,15672-15,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2015-05-12 15:55:43,2015-0.122.986-5,15713-15,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2015-05-14 18:01:47,2015-0.126.139-4,42661-16,Alvará de Aprovação de Edificação Nova,Inicial,Reconsideração,SMUL,COMIN,Em Análise
+2015-05-14 18:01:47,2015-0.126.139-4,15827-15,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2015-05-15 18:39:18,2015-0.127.484-4,16823-15,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2015-05-19 18:05:59,2015-0.130.542-1,15610-15,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2015-05-28 18:18:11,2015-0.140.005-0,17718-15,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2015-05-28 18:22:59,2015-0.140.007-6,42672-16,Alvará de Execução de Edificação Nova,Inicial,Reconsideração,SMUL,COMIN,Em Análise
+2015-05-28 18:22:59,2015-0.140.007-6,15830-15,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2015-06-01 18:02:33,2015-0.142.804-3,18256-15,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2015-06-03 18:21:46,2015-0.145.953-4,15121-15,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2015-06-11 18:07:10,2015-0.152.256-2,41489-16,Alvará de Aprovação de Edificação Nova,Inicial,Reconsideração,SMUL,COMIN,Em Análise
+2015-06-11 18:07:10,2015-0.152.256-2,18739-15,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2015-06-12 18:03:39,2015-0.153.656-3,19406-15,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2015-06-15 18:58:37,2015-0.154.972-0,19912-15,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2015-06-18 18:36:39,2015-0.159.534-9,20462-15,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2015-06-18 18:41:25,2015-0.159.537-3,20413-15,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Em Análise
+2015-06-24 18:44:28,2015-0.165.595-3,18104-15,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2015-07-07 18:02:41,2015-0.178.354-4,21214-15,Alvará de Desdobro de Lote,Inicial,Inicial,SMUL,COMIN,Indeferido
+2015-07-08 18:20:28,2015-0.179.755-3,21196-15,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2015-07-08 18:20:28,2015-0.179.755-3,41493-16,Alvará de Execução de Edificação Nova,Inicial,Reconsideração,SMUL,COMIN,Em Análise
+2015-07-20 19:29:44,2015-0.187.860-0,24129-15,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2015-08-13 18:12:59,2015-0.212.759-4,25429-15,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Em Análise
+2015-08-20 18:24:48,2015-0.220.265-0,27298-15,Alvará de Execução de Reforma,Inicial,Inicial,SMUL,COMIN,Indeferido
+2015-08-24 18:03:29,2015-0.222.726-2,27480-15,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN,Em Análise
+2015-08-26 18:44:59,2015-0.226.119-3,29143-15,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido
+2017-06-09 19:19:22,2017-0.095.614-7,16325-17,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN,Indeferido

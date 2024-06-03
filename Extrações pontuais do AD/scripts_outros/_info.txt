@@ -1,0 +1,4 @@
+dom_scrappers:
+
+	Extração de informações dos diários oficiais (modelo antigo e novo)
+	todo: melhorar extração do modelo antigo

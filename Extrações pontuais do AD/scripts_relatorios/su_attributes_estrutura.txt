@@ -1,0 +1,245 @@
+ad_processos (prod)
+    id
+    protocolo
+    n_processo
+    data_autuacao
+    assunto
+    setor_autuacao
+    setor_atual
+    proc_status
+    situacao_atual
+    data_situacao_atual
+    data_extracao
+    link
+
+
+tabela envolvidos:
+    id
+    proprietarios
+    responsavel_tecnico
+    autor_projeto
+
+
+ad_localizacao (prod)
+    id
+    endereco
+    logradouro
+    numero
+    complemento
+    bairro
+    cep
+    sql
+    incra
+    area_p
+    codlog
+    zona_uso
+    localizacao_imv
+    subprefeitura
+    distrito
+
+
+tabela areas (des)
+    tipo_uso
+    subcategoria_uso
+    grupo_atividade
+    unidades
+    area_computavel
+    area_n_computavel
+    area_total
+    area_demolicao
+    area_objeto_certficado_conclusao
+
+
+ad_timeline_despachos (prod)
+    id
+    protocolo
+    processo
+    assunto
+    data_extracao
+    despacho
+    data_despacho
+    coord_despacho
+    quem_despachou
+    documento
+
+ad_comuniqueses (prod)
+    id
+    data_comuniquese
+    coord_comuniquese
+    quem_comunicou
+
+
+ad_dispatched_despachos (prod)
+    id
+    data_publicacao
+    tipo_documento
+    num_documento
+
+
+ad_taxas (prod)
+    id
+    protocolo
+    n_processo
+    taxa_nome
+    valor
+    arrecadado
+    data-validade
+
+
+ad_despachos_x_status(prod)
+    id
+    protocolo
+    n_processo
+    status
+    ultimo_despacho
+    link
+
+ad_contribuinte (prod)
+    id
+    n_processo
+    assunto
+    sql
+    incra
+    area_publica
+
+ad_certif_conclusao (prod)
+    id
+    protocolo
+    n_processo
+    assunto
+    processo_vinculado
+
+---------------- BI -------------------
+
+bi_processos (prod)
+    n_processo
+    data_autuacao
+    asssunto
+    coord_atual
+    status
+    data_extracao
+
+
+bi_despachos (prod)
+    n_processo
+    assunto
+    despacho
+    data_despacho
+    coord_despacho
+    quem_despachou
+    data_extracao
+    unidades_aprovadas
+
+
+bi_comuniqueses (prod)
+    n_processo
+    data_comuniquese
+    coord_comuniquese
+    quem_comunicou
+
+
+bi_tempo_analise (prod)
+    id
+    processo
+    protocolo
+    assunto
+    data_autuacao
+    data_despacho ou desistencia
+
+ bi_link_alvaras_10k (prod)
+    nº do Processo
+    Código Assunto (nulo)
+    Código Aditivo (nulo)
+    Assunto
+    Interessados
+    Categoria de Uso
+    Área total da construção
+    Status do despacho
+    Data de publicação do Despacho
+    nº do Alvara
+    Data de Emissão do Alvará
+    id
+    cod_valid
+    is_resid
+    is_ednova
+    is_10k
+    is_2022
+    template
+    link
+
+
+------------ extrações ---------------
+ex_certif_conclusao_geoinfo (prod)
+    n_processo
+    assunto
+    status
+    data_deferimento
+    tipo_localizacao
+    localizacao
+    endereco
+    cep
+    categoria_uso
+    numero_documento
+    certf_conclusao_tipo
+    area_objeto_certf_concl
+
+
+--------------- OLD -----------------
+bi_balanco_processos (prod)
+    id
+    assunto
+    protocolo
+    processo
+    data_autuacao
+    situacao
+    sql
+    incra
+    area_publica
+    proprietario
+    endereco
+    subprefeitura
+    distrito
+    categoria
+    subcategoria
+    uso_atividade
+    area_terreno
+    area_construir
+    area_existente
+    area_regularizar
+    area_demolir
+    area_total_a_construir
+    blocos
+    pavimentos
+    unidades_residenciais
+    sistema_origem
+    data_extracao
+
+
+bi_serafin (prod)
+    n_processo
+    assunto
+    setor_atual
+    status
+    sistema
+
+
+ex_mp (prod)
+    id
+    processo
+    assunto
+    situacao
+    contribuinte
+    protocolo
+    data_autuacao
+    documento
+    endereco
+    departamento_responsavel
+    tecnico_responsavel_formacao
+    resolucao_conpresp
+    sistema_origem
+    data_extracao
+
+
+
+
+

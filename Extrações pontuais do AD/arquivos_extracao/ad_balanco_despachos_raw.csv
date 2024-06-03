@@ -1,0 +1,438 @@
+id;protocolo;processo;assunto;despacho;data_publicacao;coord_despacho;documento;data_extracao
+5f4d82d97e92e0000840e44b;1-20-SP-SAO;1010.2020/0006241-0;Alvará de Aprovação de Edificação Nova (Exceto HIS/ HMP);Despacho deferido;14/05/2023;;;2023.10.09
+5f5f96a249bd25000856fde8;6-20-SP-SAO;1010.2020/0006559-1;Alvará de Aprovação de Edificação Nova (HIS/ HMP);Despacho deferido;09/07/2021;;;2023.10.09
+5f5fb39c6277940008ad1998;7-20-SP-SAO;1010.2020/0006787-0;Alvará de Aprovação e Execução de Edificação Nova (Exceto HIS/ HMP);Despacho deferido;28/04/2021;;;2023.10.09
+5f5fbc6a160066000813eb46;8-20-SP-SAO;1010.2020/0006558-3;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;09/05/2022;;;2023.10.09
+5f610f9c498b2e0008de94ce;9-20-SP-NEW;1010.2020/0007422-1;Certificado de Acessibilidade;Despacho indeferido;23/03/2021;;;2023.10.09
+5f62580ce018b90008a28951;10-20-SP-NEW;1010.2020/0007052-8;Cadastro de tanque de armazenagem, bomba, filtro de combustível e equipamentos afins;Despacho indeferido;10/05/2021;;;2023.10.09
+5f62580ce018b90008a28951;10-20-SP-NEW;1010.2020/0007052-8;Cadastro de tanque de armazenagem, bomba, filtro de combustível e equipamentos afins;Despacho deferido;04/10/2021;;;2023.10.09
+5f6267a0a109fe0008d29a95;12-20-SP-NEW;1010.2020/0007034-0;Cadastro de Sistema Especial de Segurança;Despacho deferido;22/12/2020;;;2023.10.09
+5f6274b425e3390008d4b94b;13-20-SP-NEW;1010.2020/0007418-3;Cadastro de tanque de armazenagem, bomba, filtro de combustível e equipamentos afins;Despacho indeferido;28/01/2021;;;2023.10.09
+5f6274b425e3390008d4b94b;13-20-SP-NEW;1010.2020/0007418-3;Cadastro de tanque de armazenagem, bomba, filtro de combustível e equipamentos afins;Despacho indeferido;08/10/2021;;;2023.10.09
+5f6274b425e3390008d4b94b;13-20-SP-NEW;1010.2020/0007418-3;Cadastro de tanque de armazenagem, bomba, filtro de combustível e equipamentos afins;Despacho indeferido;11/07/2023;;;2023.10.09
+5f68cbf42669220008a441fe;16-20-SP-SAO;1010.2020/0006790-0;Alvará de Aprovação e Execução de Edificação Nova (Exceto HIS/ HMP);Despacho deferido;28/06/2021;;;2023.10.09
+5f68cbf42669220008a441fe;16-20-SP-SAO;1010.2020/0006790-0;Alvará de Aprovação e Execução de Edificação Nova (Exceto HIS/ HMP);Despacho deferido;28/06/2021;;;2023.10.09
+5f68cbf42669220008a441fe;16-20-SP-SAO;1010.2020/0006790-0;Alvará de Aprovação e Execução de Edificação Nova (Exceto HIS/ HMP);Despacho deferido;04/08/2021;;;2023.10.09
+5f6a3ecda391710008539ea0;18-20-SP-SAO;1010.2020/0007035-8;Alvará de Aprovação e Execução de Edificação Nova (Exceto HIS/ HMP);Despacho indeferido;06/12/2021;;;2023.10.09
+5f6a3ecda391710008539ea0;18-20-SP-SAO;1010.2020/0007035-8;Alvará de Aprovação e Execução de Edificação Nova (Exceto HIS/ HMP);Despacho indeferido;13/06/2022;;;2023.10.09
+5f6a577549e7510008cebe20;19-20-SP-SAO;1010.2020/0006853-1;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;20/12/2022;;;2023.10.09
+5f6a588e49e7510008cebe23;20-20-SP-NEW;1010.2020/0007926-6;Certificado de Acessibilidade;Despacho indeferido;25/08/2021;;;2023.10.09
+5f6a588e49e7510008cebe23;20-20-SP-NEW;1010.2020/0007926-6;Certificado de Acessibilidade;Despacho indeferido;08/10/2021;;;2023.10.09
+5f6a588e49e7510008cebe23;20-20-SP-NEW;1010.2020/0007926-6;Certificado de Acessibilidade;Despacho indeferido;05/08/2022;;;2023.10.09
+5f6bb6bb7292770008740042;22-20-SP-SAO;1010.2020/0007037-4;Alvará de Execução de Edificação Nova (HIS/ HMP);Despacho deferido;14/12/2020;;;2023.10.09
+5f7379a242d7500008dcfe74;24-20-SP-SAO;1010.2020/0007370-5;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;26/10/2021;;;2023.10.09
+5f749caf5b56da0008e79cfb;25-20-SP-SAO;1010.2020/0007464-7;Alvará de Aprovação de Edificação Nova (Exceto HIS/ HMP);Despacho indeferido;16/04/2021;;;2023.10.09
+5f75cb60073a5d0008e6fb23;27-20-SP-SAO;1010.2020/0007462-0;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;19/10/2021;;;2023.10.09
+5f763a9ccc25c80008d19d22;28-20-SP-SAO;1010.2020/0007706-9;Alvará de Aprovação de Edificação Nova (HIS/ HMP);Despacho deferido;12/07/2021;;;2023.10.09
+5f76564bb04d420009112534;29-20-SP-SAO;1010.2020/0007985-1;Alvará de Execução de Edificação Nova (HIS/ HMP);Despacho deferido;09/03/2021;;;2023.10.09
+5f7657a5b04d420009112537;30-20-SP-SAO;1010.2020/0007369-1;Alvará de Execução de Edificação Nova (Exceto HIS/ HMP);Despacho deferido;18/11/2020;;;2023.10.09
+5f7af550c5d32f0008bcb259;31-20-SP-NEW;1010.2020/0008080-9;Certificado de Acessibilidade;Despacho indeferido;19/09/2022;;;2023.10.09
+5f7b4709df1212000894f5ce;34-20-SP-SAO;1020.2020/0014328-7;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;09/06/2022;;;2023.10.09
+5f7b4a5d8ce8e10008c7c89e;35-20-SP-SAO;1010.2020/0007927-4;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;05/05/2021;;;2023.10.09
+5f7b4a5d8ce8e10008c7c89e;35-20-SP-SAO;1010.2020/0007927-4;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;10/06/2022;;;2023.10.09
+5f7b72f3e034a0000895763d;36-20-SP-NEW;1020.2020/0015999-0;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;29/06/2022;;;2023.10.09
+5f7b90fb8489f50008c684e8;37-20-SP-NEW;1010.2020/0008497-9;Certificado de Segurança;Despacho deferido;18/12/2020;;;2023.10.09
+5f7c537deea913000815e246;39-20-SP-SAO;1010.2020/0007463-9;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;13/10/2021;;;2023.10.09
+5f7c8bbf8371ee00087bab5d;40-20-SP-SAO;1010.2020/0007510-4;Alvará de Execução de Edificação Nova (HIS/ HMP);Despacho deferido;16/02/2021;;;2023.10.09
+5f7df6031d03b700089e4cb9;42-20-SP-SAO;1010.2020/0007703-4;Alvará de Aprovação e Execução de Edificação Nova (Exceto HIS/ HMP);Despacho indeferido;17/11/2020;;;2023.10.09
+5f7dfa4ab6fe3b000865bd2a;43-20-SP-SAO;1010.2020/0007702-6;Alvará de Aprovação e Execução de Reforma (Exceto HIS e HMP);Despacho deferido;20/07/2021;;;2023.10.09
+5f7f49fe8547aa0008592d95;45-20-SP-NEW;1010.2020/0008660-2;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;08/06/2022;;;2023.10.09
+5f7f50e1ad4f27000831aefe;46-20-SP-NEW;1010.2020/0007569-4;Certificado de Acessibilidade;Despacho deferido;16/02/2023;;;2023.10.09
+5f7f761b7d43c7000833ee8b;46-20-SP-SAO;1010.2020/0007720-4;Alvará de Execução de Edificação Nova (Exceto HIS/ HMP);Despacho deferido;05/04/2021;;;2023.10.09
+5f7f761b7d43c7000833ee8b;46-20-SP-SAO;1010.2020/0007720-4;Alvará de Execução de Edificação Nova (Exceto HIS/ HMP);Despacho deferido;05/04/2021;;;2023.10.09
+5f7f761b7d43c7000833ee8b;46-20-SP-SAO;1010.2020/0007720-4;Alvará de Execução de Edificação Nova (Exceto HIS/ HMP);Despacho deferido;05/04/2021;;;2023.10.09
+5f7f81bf17fb0e00083f5df3;47-20-SP-SAO;1010.2020/0008454-5;Alvará de Aprovação e Execução de Reforma (Exceto HIS e HMP);Despacho deferido;19/01/2022;;;2023.10.09
+5f7fd0740a0e71000826ec9a;48-20-SP-NEW;1020.2020/0015997-3;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;24/06/2022;;;2023.10.09
+5f8057910bc53500078d03f8;49-20-SP-SAO;1010.2020/0007568-6;Alvará de Aprovação e Execução de Reforma (Exceto HIS e HMP);Despacho deferido;19/01/2022;;;2023.10.09
+5f80737e4619fb00083265a9;50-20-SP-SAO;1010.2020/0008082-5;Alvará de Aprovação e Execução de Edificação Nova (Exceto HIS/ HMP);Despacho deferido;02/09/2021;;;2023.10.09
+5f8085d9a04f3d000873b83c;52-20-SP-SAO;1010.2020/0007567-8;Alvará de Aprovação e Execução de Edificação Nova (Exceto HIS/ HMP);Despacho indeferido;09/02/2021;;;2023.10.09
+5f8085d9a04f3d000873b83c;52-20-SP-SAO;1010.2020/0007567-8;Alvará de Aprovação e Execução de Edificação Nova (Exceto HIS/ HMP);Despacho deferido;10/12/2021;;;2023.10.09
+5f809b9ca10fa40008467e3f;53-20-SP-SAO;1010.2020/0007931-2;Alvará de Aprovação e Execução de Edificação Nova (Exceto HIS/ HMP);Despacho deferido;04/06/2021;;;2023.10.09
+5f80c43e25fe9f0008206e0e;54-20-SP-NEW;1020.2020/0015996-5;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;15/06/2022;;;2023.10.09
+5f80d5cf37e35200072da91e;55-20-SP-NEW;1020.2020/0015995-7;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;19/05/2022;;;2023.10.09
+5f80e88ca72d15000770838e;56-20-SP-NEW;1020.2020/0015993-0;Alvará de Execução para instalação de Estação Rádio-Base;Despacho deferido;26/02/2021;;;2023.10.09
+5f80e88ca72d15000770838e;56-20-SP-NEW;1020.2020/0015993-0;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;26/05/2021;;;2023.10.09
+5f86177d29910c0007728e73;59-20-SP-SAO;1010.2020/0008380-8;Alvará de Aprovação de Edificação Nova (HIS/ HMP);Despacho deferido;28/07/2021;;;2023.10.09
+5f8617bc29910c0007728e76;60-20-SP-SAO;1010.2020/0007924-0;Alvará de Aprovação e Execução de Reforma (Exceto HIS e HMP);Despacho deferido;20/05/2022;;;2023.10.09
+5f8617bc29910c0007728e76;60-20-SP-SAO;1010.2020/0007924-0;Alvará de Aprovação e Execução de Reforma (Exceto HIS e HMP);Despacho deferido;09/09/2022;;;2023.10.09
+5f8637fa9156bb0008e6abba;61-20-SP-NEW;1020.2020/0016003-3;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;29/06/2022;;;2023.10.09
+5f864f0983194600089e7c26;62-20-SP-SAO;1010.2020/0007829-4;Alvará de Aprovação e Execução de Edificação Nova (Exceto HIS/ HMP);Despacho indeferido;16/04/2021;;;2023.10.09
+5f868c35ddb7380009d0455c;63-20-SP-SAO;1010.2020/0008503-7;Alvará de Aprovação e Execução de Reforma (Exceto HIS e HMP);Despacho indeferido;20/04/2021;;;2023.10.09
+5f8739a68348fc0008efc7d3;65-20-SP-NEW;1010.2020/0008690-4;Certificado de Acessibilidade;Despacho indeferido;14/01/2022;;;2023.10.09
+5f87404e44d566000817d1b4;66-20-SP-NEW;1010.2020/0008651-3;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;15/03/2021;;;2023.10.09
+5f87404e44d566000817d1b4;66-20-SP-NEW;1010.2020/0008651-3;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;10/05/2022;;;2023.10.09
+5f87932507d83e00089dc55d;68-20-SP-NEW;1010.2020/0008669-6;Alvará de Funcionamento de Local de Reunião;Despacho indeferido;09/02/2021;;;2023.10.09
+5f883f019461e80008bef940;69-20-SP-SAO;1020.2020/0014330-9;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;14/10/2022;;;2023.10.09
+5f888ad74bd47b0008d05311;74-20-SP-SAO;1010.2020/0007986-0;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;10/10/2022;;;2023.10.09
+5f88943595dbdb0007ee7eb9;75-20-SP-SAO;1010.2020/0007932-0;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;15/04/2021;;;2023.10.09
+5f88943595dbdb0007ee7eb9;75-20-SP-SAO;1010.2020/0007932-0;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;15/04/2021;;;2023.10.09
+5f88a77c883d070008292855;77-20-SP-SAO;1010.2020/0008500-2;Alvará de Aprovação e Execução de Reforma (Exceto HIS e HMP);Despacho indeferido;20/04/2021;;;2023.10.09
+5f89a4e2a3f20a0008ce6af6;82-20-SP-SAO;1010.2020/0008496-0;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;27/06/2022;;;2023.10.09
+5f89a4e2a3f20a0008ce6af6;82-20-SP-SAO;1010.2020/0008496-0;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;17/05/2023;;;2023.10.09
+5f89f175e1ea21000861be63;83-20-SP-SAO;1010.2020/0008298-4;Alvará de Aprovação de Edificação Nova (Exceto HIS/ HMP);Despacho deferido;23/04/2021;;;2023.10.09
+5f89f175e1ea21000861be63;83-20-SP-SAO;1010.2020/0008298-4;Alvará de Aprovação de Edificação Nova (Exceto HIS/ HMP);Despacho deferido;30/07/2021;;;2023.10.09
+5f8a0b707430dd00080cbc44;84-20-SP-SAO;1010.2020/0007943-6;Alvará de Execução de Edificação Nova (Exceto HIS/ HMP);Despacho deferido;15/02/2021;;;2023.10.09
+5f8a20395fb2a300085542c6;85-20-SP-NEW;1020.2020/0016005-0;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;16/04/2021;;;2023.10.09
+5f8a20395fb2a300085542c6;85-20-SP-NEW;1020.2020/0016005-0;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;16/04/2021;;;2023.10.09
+5f8a20395fb2a300085542c6;85-20-SP-NEW;1020.2020/0016005-0;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;16/04/2021;;;2023.10.09
+5f8dda938d64580008aefed3;86-20-SP-NEW;1010.2020/0007987-8;Cadastro de Sistema Especial de Segurança;Despacho deferido;21/12/2020;;;2023.10.09
+5f8dda938d64580008aefed3;86-20-SP-NEW;1010.2020/0007987-8;Cadastro de Sistema Especial de Segurança;Despacho deferido;18/12/2020;;;2023.10.09
+5f8dedf861aa040008b27d97;90-20-SP-SAO;1010.2020/0007992-4;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;03/05/2021;;;2023.10.09
+5f8deea861aa040008b27d9a;91-20-SP-SAO;1010.2020/0008247-0;Alvará de Aprovação e Execução de Reforma (Exceto HIS e HMP);Despacho deferido;19/04/2022;;;2023.10.09
+5f8e040d2757f30008b796c7;92-20-SP-SAO;1010.2020/0008070-1;Alvará de Aprovação de Edificação Nova (Exceto HIS/ HMP);Despacho deferido;04/04/2023;;;2023.10.09
+5f8e791db2506600090aa4d8;94-20-SP-SAO;1020.2020/0014282-5;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;15/02/2021;;;2023.10.09
+5f8e791db2506600090aa4d8;94-20-SP-SAO;1020.2020/0014282-5;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;09/03/2021;;;2023.10.09
+5f8e98f4a6b09300083a9e99;95-20-SP-NEW;1010.2020/0008656-4;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;10/05/2022;;;2023.10.09
+5f8ee4f32c684f00083f35bd;96-20-SP-SAO;1020.2020/0014313-9;Alvará de Aprovação de Edificação Nova (HIS/ HMP);Despacho indeferido;25/10/2022;;;2023.10.09
+5f8f16d3b2fb1900086adfb8;98-20-SP-NEW;1020.2020/0015990-6;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;24/06/2022;;;2023.10.09
+5f8f3f44f9363400088958b7;99-20-SP-SAO;1010.2020/0008074-4;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;25/05/2021;;;2023.10.09
+5f8f49301104830008a74d29;100-20-SP-NEW;1020.2020/0014893-9;Certificado de Acessibilidade;Despacho indeferido;07/11/2022;;;2023.10.09
+5f8f4ceb5f6456000859fb0c;101-20-SP-SAO;1010.2020/0008250-0;Alvará de Aprovação e Execução de Reforma (Exceto HIS e HMP);Despacho deferido;15/12/2021;;;2023.10.09
+5f8f83b112656c000737a729;104-20-SP-SAO;1010.2020/0008085-0;Alvará de Aprovação e Execução de Edificação Nova (Exceto HIS/ HMP);Despacho deferido;16/06/2021;;;2023.10.09
+5f90786d855bb00008b52859;108-20-SP-SAO;1010.2020/0008546-0;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;30/08/2023;;;2023.10.09
+5f90a9d596a2fb00088a52cd;110-20-SP-SAO;1020.2020/0014301-5;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;08/06/2022;;;2023.10.09
+5f918b95b112d60008e84003;111-20-SP-SAO;1010.2020/0008494-4;Alvará de Execução de Edificação Nova (Exceto HIS/ HMP);Despacho deferido;14/05/2021;;;2023.10.09
+5f91b0f505bb2d000887d4a2;112-20-SP-SAO;1020.2020/0014528-0;Alvará de Aprovação e Execução de Reforma (Exceto HIS e HMP);Despacho deferido;30/01/2023;;;2023.10.09
+5f91e5972a60220008c8b46e;113-20-SP-SAO;1010.2020/0008116-3;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;02/06/2022;;;2023.10.09
+5f91f269362d060008604c24;114-20-SP-SAO;1010.2020/0008072-8;Alvará de Execução de Edificação Nova (HIS/ HMP);Despacho deferido;29/07/2021;;;2023.10.09
+5f91f44d362d060008604c27;115-20-SP-SAO;1010.2020/0008086-8;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;18/03/2021;;;2023.10.09
+5f92f9738f3ea70008948b5a;116-20-SP-NEW;1010.2020/0008249-6;Cadastro de Sistema Especial de Segurança;Despacho deferido;08/04/2021;;;2023.10.09
+5f931a3143faed00072482fb;117-20-SP-SAO;1010.2020/0008087-6;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;01/06/2021;;;2023.10.09
+5f932c38d0d5000008bb074a;118-20-SP-SAO;1010.2020/0008299-2;Alvará de Aprovação e Execução de Reforma (Exceto HIS e HMP);Despacho deferido;14/12/2022;;;2023.10.09
+5f932f7b928571000780df42;119-20-SP-SAO;1010.2020/0008279-8;Alvará de Aprovação e Execução de Edificação Nova (Exceto HIS/ HMP);Despacho indeferido;08/04/2022;;;2023.10.09
+5f932f7b928571000780df42;119-20-SP-SAO;1010.2020/0008279-8;Alvará de Aprovação e Execução de Edificação Nova (Exceto HIS/ HMP);Despacho deferido;08/11/2022;;;2023.10.09
+5f933066928571000780df45;120-20-SP-NEW;1020.2020/0016000-9;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;29/06/2022;;;2023.10.09
+5f933cc04e44680008ecfe6f;121-20-SP-SAO;1020.2020/0014303-1;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;31/08/2022;;;2023.10.09
+5f9354cdab72b200083256d1;123-20-SP-SAO;1010.2020/0008275-5;Alvará de Execução de Edificação Nova (Exceto HIS/ HMP);Despacho deferido;13/01/2021;;;2023.10.09
+5f96cddb65c0880007ba3a66;125-20-SP-NEW;1010.2020/0008689-0;Certificado de Acessibilidade;Despacho indeferido;07/12/2022;;;2023.10.09
+5f96d3491db5380008457f24;126-20-SP-NEW;1010.2020/0008620-3;Certificado de Acessibilidade;Despacho indeferido;17/08/2022;;;2023.10.09
+5f96e4e8d4f68f0008562679;127-20-SP-SAO;1010.2020/0008311-5;Alvará de Aprovação de Edificação Nova (HIS/ HMP);Despacho indeferido;12/04/2021;;;2023.10.09
+5f96e4e8d4f68f0008562679;127-20-SP-SAO;1010.2020/0008311-5;Alvará de Aprovação de Edificação Nova (HIS/ HMP);Despacho deferido;03/02/2022;;;2023.10.09
+5f9711fffe40e800098e8853;128-20-SP-SAO;1010.2020/0008248-8;Alvará de Aprovação de Edificação Nova (Exceto HIS/ HMP);Despacho indeferido;29/09/2022;;;2023.10.09
+5f9711fffe40e800098e8853;128-20-SP-SAO;1010.2020/0008248-8;Alvará de Aprovação de Edificação Nova (Exceto HIS/ HMP);Despacho indeferido;21/03/2023;;;2023.10.09
+5f971d3c7a45b70008ea05e4;129-20-SP-NEW;1020.2020/0014480-1;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;24/06/2022;;;2023.10.09
+5f971ecb7a45b70008ea05e7;130-20-SP-SAO;1010.2020/0008307-7;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;11/06/2021;;;2023.10.09
+5f972a1450335a000855efc5;131-20-SP-SAO;1010.2020/0008304-2;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;08/04/2021;;;2023.10.09
+5f9737c4c6dd270008f2cbd9;132-20-SP-SAO;1010.2020/0008637-8;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;20/12/2022;;;2023.10.09
+5f973954c6dd270008f2cbdc;133-20-SP-SAO;1010.2020/0008244-5;Alvará de Execução de Edificação Nova (HIS/ HMP);Despacho deferido;04/01/2021;;;2023.10.09
+5f9739d2c6dd270008f2cbdf;134-20-SP-NEW;1020.2020/0016006-8;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;29/06/2022;;;2023.10.09
+5f9743e2834af80008599aa3;136-20-SP-NEW;1020.2020/0016002-5;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;16/04/2021;;;2023.10.09
+5f9743e2834af80008599aa3;136-20-SP-NEW;1020.2020/0016002-5;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;16/04/2021;;;2023.10.09
+5f9743e2834af80008599aa3;136-20-SP-NEW;1020.2020/0016002-5;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;16/04/2021;;;2023.10.09
+5f9743e2834af80008599aa3;136-20-SP-NEW;1020.2020/0016002-5;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;14/05/2021;;;2023.10.09
+5f9743e2834af80008599aa3;136-20-SP-NEW;1020.2020/0016002-5;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;08/06/2022;;;2023.10.09
+5f9834040663110008f8abb2;138-20-SP-NEW;1010.2020/0008278-0;Cadastro de tanque de armazenagem, bomba, filtro de combustível e equipamentos afins;Despacho indeferido;03/12/2020;;;2023.10.09
+5f985c4b0170cb000844fb18;139-20-SP-NEW;1020.2020/0016004-1;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;19/05/2022;;;2023.10.09
+5f985e3f0170cb000844fb1b;140-20-SP-SAO;1010.2020/0008450-2;Alvará de Execução de Edificação Nova (Exceto HIS/ HMP);Despacho deferido;15/02/2021;;;2023.10.09
+5f985e750170cb000844fb1e;141-20-SP-NEW;1020.2020/0014938-2;Certificado de Segurança;Despacho indeferido;23/09/2021;;;2023.10.09
+5f9869da0c851c000810a85b;142-20-SP-SAO;1010.2020/0008276-3;Alvará de Aprovação de Edificação Nova (Exceto HIS/ HMP);Despacho indeferido;13/06/2022;;;2023.10.09
+5f9873ab0b87ad00087e2839;143-20-SP-SAO;1010.2020/0008453-7;Alvará de Execução de Edificação Nova (Exceto HIS/ HMP);Despacho deferido;02/06/2021;;;2023.10.09
+5f987f6e72237b0009a86ab8;144-20-SP-SAO;1010.2020/0008310-7;Alvará de Aprovação e Execução de Edificação Nova (Exceto HIS/ HMP);Despacho deferido;14/01/2022;;;2023.10.09
+5f9882926e8bd00007761843;145-20-SP-SAO;1010.2020/0008273-9;Alvará de Aprovação e Execução de Reforma (Exceto HIS e HMP);Despacho deferido;09/02/2022;;;2023.10.09
+5f9883b66e8bd00007761846;146-20-SP-SAO;1010.2020/0008314-0;Alvará de Aprovação de Edificação Nova (Exceto HIS/ HMP);Despacho indeferido;05/10/2021;;;2023.10.09
+5f98b2163ed6400008321b42;149-20-SP-SAO;1020.2020/0014937-4;Alvará de Execução de Edificação Nova (Exceto HIS/ HMP);Despacho deferido;24/02/2021;;;2023.10.09
+5f98bfe0ed73690008373c64;150-20-SP-NEW;1010.2020/0008657-2;Alvará de Execução para instalação de Estação Rádio-Base;Despacho deferido;02/03/2021;;;2023.10.09
+5f98c16ded73690008373c67;151-20-SP-NEW;1010.2020/0008446-4;Certificado de Acessibilidade;Despacho deferido;08/08/2022;;;2023.10.09
+5f99738d11924f00096a6f8c;153-20-SP-NEW;1020.2020/0014494-1;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;19/05/2022;;;2023.10.09
+5f99820c5007bf0008d2090a;154-20-SP-SAO;1010.2020/0008315-8;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;03/06/2021;;;2023.10.09
+5f99822e5007bf0008d2090d;155-20-SP-SAO;1010.2020/0008360-3;Alvará de Aprovação de Edificação Nova (Exceto HIS/ HMP);Despacho deferido;20/01/2022;;;2023.10.09
+5f9985bd5007bf0008d20913;157-20-SP-SAO;1010.2020/0008357-3;Alvará de Aprovação e Execução de Reforma (Exceto HIS e HMP);Despacho indeferido;17/01/2023;;;2023.10.09
+5f99a98c14c8a9000966f302;159-20-SP-SAO;1020.2020/0014308-2;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;27/09/2023;;;2023.10.09
+5f99ac1e14c8a9000966f305;160-20-SP-SAO;1010.2020/0008277-1;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;24/06/2021;;;2023.10.09
+5f99b3954a5f2b0008dec0a1;161-20-SP-SAO;1010.2020/0008309-3;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;12/05/2021;;;2023.10.09
+5f99b3954a5f2b0008dec0a1;161-20-SP-SAO;1010.2020/0008309-3;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;24/09/2021;;;2023.10.09
+5f99b75dc00a4600082494cb;162-20-SP-NEW;1020.2020/0014220-5;Cadastro de tanque de armazenagem, bomba, filtro de combustível e equipamentos afins;Despacho deferido;25/06/2021;;;2023.10.09
+5f99bced8c103c00083fef52;163-20-SP-SAO;1010.2020/0008492-8;Alvará de Aprovação de Edificação Nova (HIS/ HMP);Despacho indeferido;11/04/2023;;;2023.10.09
+5f99d314f73a8c0009a8b3ae;165-20-SP-SAO;1010.2020/0008361-1;Alvará de Aprovação e Execução de Reforma (Exceto HIS e HMP);Despacho indeferido;28/03/2023;;;2023.10.09
+5f99d314f73a8c0009a8b3ae;165-20-SP-SAO;1010.2020/0008361-1;Alvará de Aprovação e Execução de Reforma (Exceto HIS e HMP);Despacho deferido;31/07/2023;;;2023.10.09
+5f99e4a9db068f000824db3e;168-20-SP-NEW;1020.2020/0014486-0;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;15/06/2022;;;2023.10.09
+5f99fb2af271040009e90e2d;169-20-SP-NEW;1020.2020/0014487-9;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;15/03/2021;;;2023.10.09
+5f9ad2045c9662000884aa8a;170-20-SP-NEW;1020.2020/0015736-9;Certificado de Acessibilidade;Despacho indeferido;08/11/2021;;;2023.10.09
+5f9aee56730daf0008bef136;171-20-SP-SAO;1010.2020/0008272-0;Alvará de Aprovação e Execução de Edificação Nova (Exceto HIS/ HMP);Despacho indeferido;28/04/2021;;;2023.10.09
+5f9aee56730daf0008bef136;171-20-SP-SAO;1010.2020/0008272-0;Alvará de Aprovação e Execução de Edificação Nova (Exceto HIS/ HMP);Despacho indeferido;10/12/2021;;;2023.10.09
+5f9b013385bb480008fbcacd;172-20-SP-SAO;1010.2020/0008529-0;Alvará de Aprovação de Edificação Nova (HIS/ HMP);Despacho indeferido;02/03/2021;;;2023.10.09
+5f9b0a984efed10008a52433;173-20-SP-SAO;1010.2020/0008358-1;Alvará de Aprovação e Execução de Reforma (Exceto HIS e HMP);Despacho indeferido;27/04/2021;;;2023.10.09
+5f9b0a984efed10008a52433;173-20-SP-SAO;1010.2020/0008358-1;Alvará de Aprovação e Execução de Reforma (Exceto HIS e HMP);Despacho indeferido;22/08/2023;;;2023.10.09
+5f9b12cb68aac40008ae8374;174-20-SP-NEW;1020.2020/0014488-7;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;29/06/2022;;;2023.10.09
+5f9b14f668aac40008ae8377;175-20-SP-NEW;1020.2020/0014489-5;Alvará de Instalação de Heliponto;Despacho deferido;07/10/2022;;;2023.10.09
+5f9b17fc191664000879f669;176-20-SP-SAO;1010.2020/0008518-5;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;04/11/2021;;;2023.10.09
+5f9b17fc191664000879f669;176-20-SP-SAO;1010.2020/0008518-5;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;01/03/2023;;;2023.10.09
+5f9b1ff2a316e20008572904;178-20-SP-SAO;1010.2020/0008381-6;Alvará de Aprovação de Edificação Nova (HIS/ HMP);Despacho deferido;19/11/2021;;;2023.10.09
+5f9b288211cf9a00089f020e;179-20-SP-NEW;1020.2020/0014548-4;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;29/06/2022;;;2023.10.09
+5f9b51952e9ddf0009ac9274;180-20-SP-NEW;1020.2020/0014490-9;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;07/04/2021;;;2023.10.09
+5f9c186c66ae6400085f66d2;181-20-SP-SAO;1020.2020/0014290-6;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;20/01/2023;;;2023.10.09
+5f9c23dcf4015300098cc326;182-20-SP-SAO;1010.2020/0008679-3;Alvará de Aprovação e Execução de Reforma (Exceto HIS e HMP);Despacho indeferido;22/04/2021;;;2023.10.09
+5f9c410280a83100081719ad;184-20-SP-NEW;1020.2020/0014640-5;Certificado de Segurança;Despacho deferido;09/09/2021;;;2023.10.09
+5f9c48cc5dbd250008b61ac6;185-20-SP-NEW;1010.2020/0008699-8;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;15/06/2022;;;2023.10.09
+5f9c537e60aee7000886b236;186-20-SP-SAO;1010.2020/0008643-2;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;28/10/2021;;;2023.10.09
+5f9c53e360aee7000886b239;187-20-SP-SAO;1010.2020/0008448-0;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;21/09/2021;;;2023.10.09
+5f9c59c375f01200080232e8;188-20-SP-SAO;1020.2020/0014302-3;Alvará de Aprovação de Edificação Nova (HIS/ HMP);Despacho deferido;09/11/2021;;;2023.10.09
+5f9c5e6d1f1b15000909f635;189-20-SP-SAO;1010.2020/0008449-9;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;11/04/2022;;;2023.10.09
+5f9c62ae7caf390008b13375;190-20-SP-NEW;1020.2020/0014483-6;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;17/03/2021;;;2023.10.09
+5f9c6936bbaf980008372a17;191-20-SP-DIR;1010.2020/0008674-2;Certidão de Diretrizes Urbanísticas;Despacho deferido;07/06/2022;;;2023.10.09
+5f9c768ab287b10009cb8d23;192-20-SP-NEW;1020.2020/0014219-1;Cadastro de Sistema Especial de Segurança;Despacho deferido;21/01/2021;;;2023.10.09
+5f9c8c73614b9800082563a6;195-20-SP-NEW;1010.2020/0008676-9;Certificado de Acessibilidade;Despacho indeferido;23/03/2021;;;2023.10.09
+5f9c8d7b614b9800082563a9;196-20-SP-NEW;1020.2020/0014481-0;Alvará de Execução para instalação de Estação Rádio-Base;Despacho deferido;05/03/2021;;;2023.10.09
+5fa158b9f0bc9b000954cf81;198-20-SP-SAO;1010.2020/0008639-4;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;26/08/2022;;;2023.10.09
+5fa16bdda376ae0009c01421;200-20-SP-SAO;1010.2020/0008628-9;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;20/03/2023;;;2023.10.09
+5fa19604cb5fe80008967e48;202-20-SP-NEW;1020.2020/0014423-2;Certificado de Acessibilidade;Despacho indeferido;26/12/2022;;;2023.10.09
+5fa1a0031d74230008b18790;204-20-SP-SAO;1010.2020/0008635-1;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;21/05/2023;;;2023.10.09
+5fa1ad39aa70c20008595423;205-20-SP-SAO;1010.2020/0008646-7;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;23/08/2021;;;2023.10.09
+5fa1ad39aa70c20008595423;205-20-SP-SAO;1010.2020/0008646-7;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;27/06/2022;;;2023.10.09
+5fa1ae0aaa70c20008595426;206-20-SP-SAO;1020.2020/0014941-2;Alvará de Aprovação de Edificação Nova (Exceto HIS/ HMP);Despacho indeferido;20/04/2021;;;2023.10.09
+5fa1ae7daa70c20008595429;207-20-SP-SAO;1010.2020/0008645-9;Alvará de Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;25/03/2021;;;2023.10.09
+5fa1ae7daa70c20008595429;207-20-SP-SAO;1010.2020/0008645-9;Alvará de Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;25/03/2021;;;2023.10.09
+5fa1ae7daa70c20008595429;207-20-SP-SAO;1010.2020/0008645-9;Alvará de Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;25/03/2021;;;2023.10.09
+5fa1bf4a6615450008e3af8e;209-20-SP-NEW;1020.2020/0015994-9;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;29/06/2022;;;2023.10.09
+5fa1c2cf048c150009010f43;211-20-SP-SAO;1010.2020/0008648-3;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;15/06/2022;;;2023.10.09
+5fa1c78c53afb40008f0d817;213-20-SP-SAO;1020.2020/0014318-0;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;07/10/2022;;;2023.10.09
+5fa1c7e29ea82f00088382df;214-20-SP-SAO;1020.2020/0014288-4;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;09/04/2021;;;2023.10.09
+5fa1d23e8d6234000870f917;216-20-SP-SAO;1020.2020/0014208-6;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;23/03/2023;;;2023.10.09
+5fa1f0967041d4000809d4cd;218-20-SP-NEW;1020.2020/0014204-3;Alvará de Execução para instalação de Estação Rádio-Base;Despacho deferido;26/02/2021;;;2023.10.09
+5fa2ab74db57ec00088d712a;219-20-SP-SAO;1010.2020/0008671-8;Alvará de Aprovação e Execução de Edificação Nova (Exceto HIS/ HMP);Despacho indeferido;01/06/2021;;;2023.10.09
+5fa2ab74db57ec00088d712a;219-20-SP-SAO;1010.2020/0008671-8;Alvará de Aprovação e Execução de Edificação Nova (Exceto HIS/ HMP);Despacho deferido;11/08/2021;;;2023.10.09
+5fa2dfb545e61e0008693828;221-20-SP-NEW;1020.2020/0014215-9;Cadastro de tanque de armazenagem, bomba, filtro de combustível e equipamentos afins;Despacho indeferido;04/02/2021;;;2023.10.09
+5fa2dfb545e61e0008693828;221-20-SP-NEW;1020.2020/0014215-9;Cadastro de tanque de armazenagem, bomba, filtro de combustível e equipamentos afins;Despacho documental;01/02/2021;;;2023.10.09
+5fa2dfb545e61e0008693828;221-20-SP-NEW;1020.2020/0014215-9;Cadastro de tanque de armazenagem, bomba, filtro de combustível e equipamentos afins;Despacho indeferido;26/01/2021;;;2023.10.09
+5fa30a8d8a8d9b0009bc1fad;224-20-SP-SAO;1020.2020/0014289-2;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;28/10/2021;;;2023.10.09
+5fa318c1c2c0ad000850fb80;225-20-SP-SAO;1020.2020/0014213-2;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;04/09/2023;;;2023.10.09
+5fa31b3c22e4850009eeb39e;226-20-SP-NEW;1020.2020/0014202-7;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;29/06/2022;;;2023.10.09
+5fa31edb9c20270008eccc52;227-20-SP-NEW;1020.2020/0014504-2;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;08/06/2022;;;2023.10.09
+5fa412ed999f470008a675b0;230-20-SP-SAO;1020.2020/0014307-4;Alvará de Execução de Edificação Nova (HIS/ HMP);Despacho deferido;09/02/2021;;;2023.10.09
+5fa412ed999f470008a675b0;230-20-SP-SAO;1020.2020/0014307-4;Alvará de Execução de Edificação Nova (HIS/ HMP);Despacho deferido;03/12/2021;;;2023.10.09
+5fa41b3e11f138000987abf5;231-20-SP-SAO;1020.2020/0014306-6;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;08/09/2021;;;2023.10.09
+5fa41b3e11f138000987abf5;231-20-SP-SAO;1020.2020/0014306-6;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;10/12/2021;;;2023.10.09
+5fa422ee9022de00082dacfb;232-20-SP-NEW;1020.2021/0000691-5;Cadastro de tanque de armazenagem, bomba, filtro de combustível e equipamentos afins;Despacho indeferido;07/10/2021;;;2023.10.09
+5fa44d97a1bffd000817f784;236-20-SP-SAO;1010.2020/0008662-9;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;19/08/2021;;;2023.10.09
+5fa45373eea63e00087e16e5;237-20-SP-NEW;1020.2020/0014581-6;Cadastro de tanque de armazenagem, bomba, filtro de combustível e equipamentos afins;Despacho indeferido;16/03/2022;;;2023.10.09
+5fa45373eea63e00087e16e5;237-20-SP-NEW;1020.2020/0014581-6;Cadastro de tanque de armazenagem, bomba, filtro de combustível e equipamentos afins;Despacho indeferido;08/08/2022;;;2023.10.09
+5fa45373eea63e00087e16e5;237-20-SP-NEW;1020.2020/0014581-6;Cadastro de tanque de armazenagem, bomba, filtro de combustível e equipamentos afins;Despacho indeferido;11/07/2023;;;2023.10.09
+5fa455047b800e00092174fe;238-20-SP-NEW;1020.2020/0014212-4;Alvará de Instalação de Heliponto;Despacho indeferido;24/09/2021;;;2023.10.09
+5fa455047b800e00092174fe;238-20-SP-NEW;1020.2020/0014212-4;Alvará de Instalação de Heliponto;Despacho deferido;29/08/2023;;;2023.10.09
+5fa45aca3caf490008abb172;239-20-SP-SAO;1020.2020/0014221-3;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;27/07/2021;;;2023.10.09
+5fa45aca3caf490008abb172;239-20-SP-SAO;1020.2020/0014221-3;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;10/12/2021;;;2023.10.09
+5fa45c8443f3f20009d7f2c3;240-20-SP-NEW;1020.2020/0014537-9;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;15/06/2022;;;2023.10.09
+5fa45d18a0ac830008aaa7be;241-20-SP-NEW;1020.2020/0014582-4;Certificado de Estanqueidade;Despacho indeferido;06/10/2021;;;2023.10.09
+5fa45d18a0ac830008aaa7be;241-20-SP-NEW;1020.2020/0014582-4;Certificado de Estanqueidade;Despacho indeferido;08/08/2022;;;2023.10.09
+5fa45d18a0ac830008aaa7be;241-20-SP-NEW;1020.2020/0014582-4;Certificado de Estanqueidade;Despacho indeferido;10/07/2023;;;2023.10.09
+5fa46654da5c0e000878ed2c;242-20-SP-SAO;1020.2020/0014217-5;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;21/09/2021;;;2023.10.09
+5fa4755939ebee0009978268;244-20-SP-NEW;1020.2020/0014485-2;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;13/04/2021;;;2023.10.09
+5fa54981faf00a000832ab21;246-20-SP-NEW;1020.2020/0014499-2;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;15/06/2022;;;2023.10.09
+5fa5547150fc4a0008b1c6ec;247-20-SP-NEW;1020.2020/0014529-8;Cadastro de tanque de armazenagem, bomba, filtro de combustível e equipamentos afins;Despacho indeferido;09/03/2021;;;2023.10.09
+5fa55d34c18b0600087f3b5e;248-20-SP-NEW;1020.2021/0002697-5;Alvará de Funcionamento de Local de Reunião;Despacho indeferido;12/05/2021;;;2023.10.09
+5fa59204e422440008bd84aa;250-20-SP-SAO;1020.2020/0014292-2;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;06/04/2022;;;2023.10.09
+5fa5a7848ce1ee00097705fd;252-20-SP-NEW;1020.2020/0014501-8;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;15/06/2022;;;2023.10.09
+5fa5a924ec89cf000950d33d;253-20-SP-SAO;1020.2020/0014424-0;Alvará de Aprovação de Edificação Nova (Exceto HIS/ HMP);Despacho deferido;23/08/2022;;;2023.10.09
+5fa5afea0db633000944ed35;254-20-SP-NEW;1020.2020/0014502-6;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;19/05/2022;;;2023.10.09
+5fa5b3a6e52feb0008fce82f;255-20-SP-NEW;1020.2020/0014425-9;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;15/06/2022;;;2023.10.09
+5fa5baff6e9cf300085d7dfd;256-20-SP-NEW;1020.2020/0014503-4;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;24/06/2022;;;2023.10.09
+5fa5c4f80e645800087f7adc;257-20-SP-NEW;1010.2020/0008681-5;Alvará de Execução para instalação de Estação Rádio-Base;Despacho deferido;26/02/2021;;;2023.10.09
+5fa92bb006fbde0008a486cd;258-20-SP-SAO;1020.2020/0014223-0;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;10/12/2021;;;2023.10.09
+5fa92f421c1c670008f36980;259-20-SP-SAO;1020.2020/0014225-6;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;17/08/2021;;;2023.10.09
+5fa936167f28e6000884db56;260-20-SP-SAO;1020.2020/0014323-6;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;20/10/2021;;;2023.10.09
+5fa97c0d9dc2df00080edb48;264-20-SP-SAO;1020.2020/0014325-2;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;15/07/2021;;;2023.10.09
+5fa98aec99be960008fe6e2d;267-20-SP-SAO;1020.2020/0014283-3;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;24/06/2021;;;2023.10.09
+5fa99215f7fcaf0008755640;269-20-SP-SAO;1020.2020/0014326-0;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;28/04/2021;;;2023.10.09
+5fa99215f7fcaf0008755640;269-20-SP-SAO;1020.2020/0014326-0;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;13/08/2021;;;2023.10.09
+5fa99215f7fcaf0008755640;269-20-SP-SAO;1020.2020/0014326-0;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;17/02/2022;;;2023.10.09
+5fa994f245e6ed000999789b;271-20-SP-SAO;1020.2020/0014332-5;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;25/07/2022;;;2023.10.09
+5fa9a006cfd49400087fe2dd;275-20-SP-SAO;1020.2020/0014484-4;Alvará de Execução de Edificação Nova (Exceto HIS/ HMP);Despacho deferido;25/03/2021;;;2023.10.09
+5fa9a006cfd49400087fe2dd;275-20-SP-SAO;1020.2020/0014484-4;Alvará de Execução de Edificação Nova (Exceto HIS/ HMP);Despacho deferido;25/03/2021;;;2023.10.09
+5fa9a006cfd49400087fe2dd;275-20-SP-SAO;1020.2020/0014484-4;Alvará de Execução de Edificação Nova (Exceto HIS/ HMP);Despacho deferido;25/03/2021;;;2023.10.09
+5fa9a221c537d3000863e1e9;276-20-SP-NEW;1020.2020/0014495-0;Certificado de Acessibilidade;Despacho indeferido;14/01/2022;;;2023.10.09
+5fa9a395bac3fb00094b0c1e;277-20-SP-SAO;1020.2020/0014284-1;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;23/04/2021;;;2023.10.09
+5fa9a395bac3fb00094b0c1e;277-20-SP-SAO;1020.2020/0014284-1;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;04/02/2022;;;2023.10.09
+5fa9c2d2676fd3000842316f;279-20-SP-SAO;1020.2020/0014207-8;Alvará de Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;02/07/2021;;;2023.10.09
+5fa9c2d2676fd3000842316f;279-20-SP-SAO;1020.2020/0014207-8;Alvará de Execução de Edificação Nova (HIS/ HMP);Despacho deferido;27/07/2021;;;2023.10.09
+5faaaa97bf3b350008cf9e13;282-20-SP-SAO;1020.2020/0014437-2;Alvará de Aprovação de Edificação Nova (Exceto HIS/ HMP);Despacho indeferido;02/05/2022;;;2023.10.09
+5faaac3efc402d0008ae8eaf;283-20-SP-SAO;1020.2020/0014285-0;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;05/01/2022;;;2023.10.09
+5faaadb53311e70008d0064d;284-20-SP-SAO;1020.2020/0014436-4;Alvará de Execução de Edificação Nova (Exceto HIS/ HMP);Despacho deferido;25/03/2021;;;2023.10.09
+5faaadb53311e70008d0064d;284-20-SP-SAO;1020.2020/0014436-4;Alvará de Execução de Edificação Nova (Exceto HIS/ HMP);Despacho deferido;25/03/2021;;;2023.10.09
+5faaadb53311e70008d0064d;284-20-SP-SAO;1020.2020/0014436-4;Alvará de Execução de Edificação Nova (Exceto HIS/ HMP);Despacho deferido;25/03/2021;;;2023.10.09
+5faabfeb51894100081850ee;285-20-SP-SAO;1020.2020/0014435-6;Alvará de Aprovação e Execução de Edificação Nova (Exceto HIS/ HMP);Despacho indeferido;12/05/2021;;;2023.10.09
+5faaccd4ed11040008b0a90e;287-20-SP-NEW;1020.2020/0014531-0;Certificado de Acessibilidade;Despacho indeferido;22/03/2023;;;2023.10.09
+5faaf1b0512c750008620a5e;289-20-SP-NEW;1020.2020/0014522-0;Alvará de Funcionamento de Local de Reunião;Despacho indeferido;12/04/2021;;;2023.10.09
+5faaf1b0512c750008620a5e;289-20-SP-NEW;1020.2020/0014522-0;Alvará de Funcionamento de Local de Reunião;Despacho deferido;25/06/2021;;;2023.10.09
+5faaf427ec9af500081463cf;290-20-SP-SAO;1020.2020/0014329-5;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;05/02/2021;;;2023.10.09
+5faaf854a9914200089c4290;291-20-SP-NEW;1020.2020/0014491-7;Cadastro de tanque de armazenagem, bomba, filtro de combustível e equipamentos afins;Despacho deferido;15/01/2021;;;2023.10.09
+5faafa707aa335000940c633;292-20-SP-NEW;1020.2020/0014532-8;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;15/06/2022;;;2023.10.09
+5fab150b89cd0c00086c1669;293-20-SP-NEW;1020.2020/0014497-6;Certificado de Segurança;Despacho indeferido;01/10/2023;;;2023.10.09
+5fabc745497969000962b33d;295-20-SP-SAO;1020.2020/0014333-3;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;27/04/2021;;;2023.10.09
+5fabe4303073fa00088c0223;296-20-SP-SAO;1020.2020/0014294-9;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;23/05/2022;;;2023.10.09
+5fabea7a7690760009f1b565;297-20-SP-NEW;1020.2020/0014434-8;Certificado de Acessibilidade;Despacho indeferido;04/08/2022;;;2023.10.09
+5fabf124f211640008809236;298-20-SP-NEW;1020.2020/0014433-0;Certificado de Acessibilidade;Despacho indeferido;23/03/2021;;;2023.10.09
+5fac0e3461c237000810fd6b;300-20-SP-NEW;1020.2020/0014549-2;Certificado de Segurança;Despacho deferido;19/07/2022;;;2023.10.09
+5fac33d9855bb50008abdff1;302-20-SP-NEW;1020.2020/0014521-2;Certificado de Segurança;Despacho deferido;08/01/2021;;;2023.10.09
+5fac3b35422e2b0008768613;304-20-SP-SAO;1020.2020/0014296-5;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;02/09/2022;;;2023.10.09
+5fac3fdf66c5a70008b209ce;305-20-SP-SAO;1020.2020/0014327-9;Alvará de Aprovação de Edificação Nova (HIS/ HMP);Despacho deferido;17/08/2021;;;2023.10.09
+5fac3fdf66c5a70008b209ce;305-20-SP-SAO;1020.2020/0014327-9;Alvará de Aprovação de Edificação Nova (HIS/ HMP);Despacho deferido;14/12/2021;;;2023.10.09
+5fac3fdf66c5a70008b209ce;305-20-SP-SAO;1020.2020/0014327-9;Alvará de Aprovação de Edificação Nova (HIS/ HMP);Despacho deferido;22/03/2022;;;2023.10.09
+5fac4186ff0f2600082646f7;306-20-SP-NEW;1020.2020/0014426-7;Alvará de Funcionamento de Local de Reunião;Despacho deferido;20/12/2021;;;2023.10.09
+5fac4186ff0f2600082646f7;306-20-SP-NEW;1020.2020/0014426-7;Alvará de Funcionamento de Local de Reunião;Despacho deferido;19/01/2022;;;2023.10.09
+5fac4fb8ce64390008443c51;308-20-SP-SAO;1020.2020/0014319-8;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;25/02/2021;;;2023.10.09
+5fac4fb8ce64390008443c51;308-20-SP-SAO;1020.2020/0014319-8;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho de Retificação;03/03/2021;;;2023.10.09
+5fac508bce64390008443c54;309-20-SP-SAO;1020.2020/0014311-2;Alvará de Aprovação de Edificação Nova (HIS/ HMP);Despacho deferido;18/06/2021;;;2023.10.09
+5fad2eb25e17110008edcbe0;311-20-SP-NEW;1020.2020/0014588-3;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;09/04/2021;;;2023.10.09
+5fad2eb25e17110008edcbe0;311-20-SP-NEW;1020.2020/0014588-3;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;09/04/2021;;;2023.10.09
+5fad2eb25e17110008edcbe0;311-20-SP-NEW;1020.2020/0014588-3;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;09/04/2021;;;2023.10.09
+5fad2eb25e17110008edcbe0;311-20-SP-NEW;1020.2020/0014588-3;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;09/04/2021;;;2023.10.09
+5fad2eb25e17110008edcbe0;311-20-SP-NEW;1020.2020/0014588-3;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;15/06/2022;;;2023.10.09
+5fad353970face00086c1bbf;312-20-SP-SAO;1020.2020/0014321-0;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;03/06/2021;;;2023.10.09
+5fad7bd11ec3160008092ffe;316-20-SP-SAO;1020.2020/0014583-2;Alvará de Aprovação e Execução de Reforma (Exceto HIS e HMP);Despacho indeferido;15/07/2022;;;2023.10.09
+5fad7cdf1ec3160008093001;317-20-SP-SAO;1020.2020/0014300-7;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;25/08/2022;;;2023.10.09
+5fad7dbf1ec3160008093004;318-20-SP-NEW;1020.2020/0014643-0;Alvará de Funcionamento de Local de Reunião;Despacho indeferido;09/02/2021;;;2023.10.09
+5fada49a32400c000881353b;322-20-SP-SAO;1020.2020/0014432-1;Alvará de Aprovação e Execução de Edificação Nova (Exceto HIS/ HMP);Despacho indeferido;27/07/2023;;;2023.10.09
+5fada7c18f1fc500094c1cc8;323-20-SP-SAO;1020.2020/0015495-5;Alvará de Aprovação de Edificação Nova (Exceto HIS/ HMP);Despacho indeferido;30/05/2023;;;2023.10.09
+5fae798efc251300089990cc;324-20-SP-SAO;1020.2020/0014216-7;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;03/10/2022;;;2023.10.09
+5fae7ee677347b000839ae24;326-20-SP-NEW;1020.2020/0014547-6;Certificado de Segurança;Despacho indeferido;14/04/2021;;;2023.10.09
+5fae8beefd91420008662f00;328-20-SP-SAO;1020.2020/0014228-0;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;22/08/2022;;;2023.10.09
+5fae957c7563380008f36ee3;329-20-SP-SAO;1020.2020/0014229-9;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;14/07/2022;;;2023.10.09
+5faeaa6eb21fd200082cfe9c;330-20-SP-NEW;1020.2020/0014428-3;Alvará de Funcionamento de Local de Reunião;Despacho deferido;15/01/2021;;;2023.10.09
+5faec70ba98a5a0008cd815c;331-20-SP-SAO;1020.2020/0014231-0;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;26/10/2021;;;2023.10.09
+5faed8d856f5d60009afb839;334-20-SP-NEW;1020.2020/0014427-5;Certificado de Acessibilidade;Despacho indeferido;15/08/2022;;;2023.10.09
+5faeef694b66b00008d02b8d;335-20-SP-NEW;1020.2020/0016007-6;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;29/06/2022;;;2023.10.09
+5faef9753eeed0000884a78d;336-20-SP-SAO;1020.2020/0014246-9;Alvará de Execução de Edificação Nova (HIS/ HMP);Despacho deferido;18/01/2021;;;2023.10.09
+5faefaaf3eeed0000884a790;337-20-SP-SAO;1020.2020/0014533-6;Alvará de Aprovação de Reforma (Exceto HIS/ HMP);Despacho indeferido;30/07/2021;;;2023.10.09
+5faefaaf3eeed0000884a790;337-20-SP-SAO;1020.2020/0014533-6;Alvará de Aprovação de Reforma (Exceto HIS/ HMP);Despacho deferido;02/07/2023;;;2023.10.09
+5faf1de86da5cf0008702284;338-20-SP-SAO;1020.2020/0014336-8;Alvará de Execução de Edificação Nova (HIS/ HMP);Despacho deferido;18/01/2021;;;2023.10.09
+5faf4040000340000802beba;339-20-SP-SAO;1020.2020/0014517-4;Alvará de Aprovação e Execução de Reforma (Exceto HIS e HMP);Despacho indeferido;11/05/2022;;;2023.10.09
+5fb29ab7b1bed900088e0053;341-20-SP-SAO;1020.2020/0014276-0;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;27/09/2021;;;2023.10.09
+5fb2a3bd9bd83a00082ce9ef;342-20-SP-SAO;1020.2020/0014337-6;Alvará de Aprovação de Edificação Nova (HIS/ HMP);Despacho indeferido;12/04/2021;;;2023.10.09
+5fb2b067879b0d00084a62fa;343-20-SP-NEW;1020.2020/0014542-5;Certificado de Acessibilidade;Despacho indeferido;03/11/2021;;;2023.10.09
+5fb2cc76b3f56100080a7e62;345-20-SP-SAO;1020.2020/0014316-3;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;30/06/2021;;;2023.10.09
+5fb2cc76b3f56100080a7e62;345-20-SP-SAO;1020.2020/0014316-3;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;03/10/2022;;;2023.10.09
+5fb2de7d0884880009586872;347-20-SP-SAO;1020.2020/0014277-9;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;02/09/2021;;;2023.10.09
+5fb2df300884880009586875;348-20-SP-SAO;1020.2020/0014278-7;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;09/09/2021;;;2023.10.09
+5fb2e1776696a50008a2063d;349-20-SP-SAO;1020.2020/0014279-5;Alvará de Aprovação de Edificação Nova (HIS/ HMP);Despacho indeferido;29/06/2021;;;2023.10.09
+5fb2e1776696a50008a2063d;349-20-SP-SAO;1020.2020/0014279-5;Alvará de Aprovação de Edificação Nova (HIS/ HMP);Despacho deferido;13/08/2021;;;2023.10.09
+5fb2f8d8d8c131000863ee2a;350-20-SP-NEW;1020.2020/0014525-5;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;08/06/2022;;;2023.10.09
+5fb305618b36140008122752;351-20-SP-SAO;1020.2020/0014511-5;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;17/08/2021;;;2023.10.09
+5fb305618b36140008122752;351-20-SP-SAO;1020.2020/0014511-5;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;01/09/2021;;;2023.10.09
+5fb3be528bd7cd00085250c1;352-20-SP-SAO;1020.2020/0014338-4;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;28/07/2021;;;2023.10.09
+5fb3db8cb0f9970008190b46;353-20-SP-SAO;1020.2020/0014298-1;Alvará de Execução de Edificação Nova (HIS/ HMP);Despacho deferido;18/01/2021;;;2023.10.09
+5fb3e551b7e11900084dbfc5;356-20-SP-SAO;1020.2020/0014324-4;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;06/06/2022;;;2023.10.09
+5fb3e581b7e11900084dbfc8;357-20-SP-SAO;1020.2020/0014322-8;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;14/12/2021;;;2023.10.09
+5fb3eec6323638000868d16b;358-20-SP-SAO;1020.2020/0014320-1;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;02/06/2021;;;2023.10.09
+5fb3fcf5a79f6100086b8d7d;359-20-SP-SAO;1020.2020/0014334-1;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;11/11/2021;;;2023.10.09
+5fb3fcf5a79f6100086b8d7d;359-20-SP-SAO;1020.2020/0014334-1;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;23/11/2022;;;2023.10.09
+5fb40123b4974100091cb1cd;360-20-SP-SAO;1020.2020/0014339-2;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;16/12/2021;;;2023.10.09
+5fb407e8aae53f0008f47eae;361-20-SP-SAO;1020.2020/0014584-0;Alvará de Aprovação de Edificação Nova (Exceto HIS/ HMP);Despacho indeferido;04/01/2022;;;2023.10.09
+5fb40aed5865ee0008187a79;363-20-SP-SAO;1020.2020/0014340-6;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;06/04/2022;;;2023.10.09
+5fb411d83ac2820008d72981;364-20-SP-SAO;1020.2020/0014341-4;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;19/04/2021;;;2023.10.09
+5fb416fc5055730008f76718;365-20-SP-SAO;1020.2020/0014342-2;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;15/06/2022;;;2023.10.09
+5fb417325055730008f7671b;366-20-SP-SAO;1020.2020/0014343-0;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;21/12/2022;;;2023.10.09
+5fb4174a5055730008f7671e;367-20-SP-SAO;1020.2020/0014344-9;Alvará de Aprovação de Edificação Nova (HIS/ HMP);Despacho deferido;24/03/2021;;;2023.10.09
+5fb4174a5055730008f7671e;367-20-SP-SAO;1020.2020/0014344-9;Alvará de Aprovação de Edificação Nova (HIS/ HMP);Despacho deferido;12/07/2021;;;2023.10.09
+5fb41de97619240009137243;368-20-SP-SAO;1020.2020/0014345-7;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;15/03/2021;;;2023.10.09
+5fb41de97619240009137243;368-20-SP-SAO;1020.2020/0014345-7;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;25/08/2022;;;2023.10.09
+5fb4203af51cef0009d8443e;369-20-SP-SAO;1020.2020/0014346-5;Alvará de Execução de Edificação Nova (HIS/ HMP);Despacho deferido;09/02/2021;;;2023.10.09
+5fb4203af51cef0009d8443e;369-20-SP-SAO;1020.2020/0014346-5;Alvará de Execução de Edificação Nova (HIS/ HMP);Despacho deferido;13/10/2021;;;2023.10.09
+5fb42592b40384000776db75;370-20-SP-SAO;1020.2020/0014585-9;Alvará de Aprovação e Execução de Edificação Nova (Exceto HIS/ HMP);Despacho deferido;03/09/2021;;;2023.10.09
+5fb4366a832f4300089124b5;371-20-SP-NEW;1020.2020/0014699-5;Certificado de Acessibilidade;Despacho indeferido;16/05/2022;;;2023.10.09
+5fb4376e832f4300089124b8;372-20-SP-NEW;1020.2020/0014580-8;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;16/04/2021;;;2023.10.09
+5fb4376e832f4300089124b8;372-20-SP-NEW;1020.2020/0014580-8;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;16/04/2021;;;2023.10.09
+5fb4376e832f4300089124b8;372-20-SP-NEW;1020.2020/0014580-8;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;16/04/2021;;;2023.10.09
+5fb4376e832f4300089124b8;372-20-SP-NEW;1020.2020/0014580-8;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;19/05/2022;;;2023.10.09
+5fb44ba5961c3e0008ef4096;373-20-SP-SAO;1020.2020/0014417-8;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;03/06/2021;;;2023.10.09
+5fb5331f8339160008828b00;377-20-SP-SAO;1020.2020/0014593-0;Alvará de Aprovação de Edificação Nova (Exceto HIS/ HMP);Despacho indeferido;19/08/2021;;;2023.10.09
+5fb53b50247b8e0008431a0b;381-20-SP-SAO;1020.2020/0014556-5;Alvará de Aprovação e Execução de Edificação Nova (Exceto HIS/ HMP);Despacho deferido;04/11/2021;;;2023.10.09
+5fb544955f44f400082b5a6b;383-20-SP-SAO;1020.2020/0014422-4;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;23/12/2022;;;2023.10.09
+5fb571b6504e2600083d8ae6;385-20-SP-SAO;1020.2020/0015148-4;Alvará de Aprovação e Execução de Reforma (Exceto HIS e HMP);Despacho indeferido;11/05/2023;;;2023.10.09
+5fb579d0c8adac000847e077;387-20-SP-SAO;1020.2020/0014479-8;Alvará de Execução de Edificação Nova (HIS/ HMP);Despacho deferido;04/01/2021;;;2023.10.09
+5fb5833da4509600085b6c03;388-20-SP-NEW;1020.2020/0014543-3;Alvará de Funcionamento de Local de Reunião;Despacho deferido;19/04/2021;;;2023.10.09
+5fb5833da4509600085b6c03;388-20-SP-NEW;1020.2020/0014543-3;Alvará de Funcionamento de Local de Reunião;Despacho deferido;19/04/2021;;;2023.10.09
+5fb5b7ea534e420009498d08;389-20-SP-SAO;1020.2020/0014550-6;Alvará de Aprovação e Execução de Edificação Nova (Exceto HIS/ HMP);Despacho indeferido;16/03/2021;;;2023.10.09
+5fb5b7ea534e420009498d08;389-20-SP-SAO;1020.2020/0014550-6;Alvará de Aprovação e Execução de Edificação Nova (Exceto HIS/ HMP);Despacho indeferido;07/04/2022;;;2023.10.09
+5fb5edb30f2b16000884d125;390-20-SP-SAO;1020.2020/0014482-8;Alvará de Aprovação de Edificação Nova (HIS/ HMP);Despacho deferido;16/08/2021;;;2023.10.09
+5fb686b148372c0008ca7032;393-20-SP-SAO;1020.2020/0014493-3;Alvará de Aprovação de Edificação Nova (HIS/ HMP);Despacho deferido;14/07/2021;;;2023.10.09
+5fb6b1142a2ab70008733fcb;396-20-SP-SAO;1020.2020/0014500-0;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;15/04/2021;;;2023.10.09
+5fb6b1142a2ab70008733fcb;396-20-SP-SAO;1020.2020/0014500-0;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;19/08/2021;;;2023.10.09
+5fb6bd0fe7537600080fc588;397-20-SP-NEW;1020.2020/0015838-1;Cadastro de tanque de armazenagem, bomba, filtro de combustível e equipamentos afins;Despacho indeferido;16/04/2023;;;2023.10.09
+5fb6c942bfa820000837f6d0;399-20-SP-SAO;1020.2020/0014505-0;Alvará de Aprovação e Execução de Reforma (HIS/ HMP);Despacho indeferido;08/04/2021;;;2023.10.09
+5fb6ca82bfa820000837f6d3;400-20-SP-SAO;1020.2020/0014587-5;Alvará de Aprovação de Edificação Nova (Exceto HIS/ HMP);Despacho indeferido;26/08/2021;;;2023.10.09
+5fb6ca82bfa820000837f6d3;400-20-SP-SAO;1020.2020/0014587-5;Alvará de Aprovação de Edificação Nova (Exceto HIS/ HMP);Despacho indeferido;17/08/2023;;;2023.10.09
+5fb6e2cc7e767c0008c175cd;401-20-SP-NEW;1020.2020/0015153-0;Alvará de Funcionamento de Local de Reunião;Despacho deferido;20/03/2023;;;2023.10.09
+5fb6f3b86ecf2000082833be;402-20-SP-NEW;1020.2020/0014939-0;Cadastro de Sistema Especial de Segurança;Despacho deferido;16/11/2021;;;2023.10.09
+5fb7aa11d7f752000962769e;403-20-SP-NEW;1020.2020/0014589-1;Certificado de Segurança;Despacho indeferido;05/07/2021;;;2023.10.09
+5fb7aa11d7f752000962769e;403-20-SP-NEW;1020.2020/0014589-1;Certificado de Segurança;Despacho indeferido;09/09/2021;;;2023.10.09
+5fb7aa11d7f752000962769e;403-20-SP-NEW;1020.2020/0014589-1;Certificado de Segurança;Despacho indeferido;25/10/2021;;;2023.10.09
+5fb7b0663b4a8b0008c03f6f;404-20-SP-SAO;1020.2020/0014971-4;Alvará de Aprovação e Execução de Reforma (Exceto HIS e HMP);Despacho indeferido;09/11/2021;;;2023.10.09
+5fb7ca8733b1e100089b78ef;407-20-SP-NEW;1020.2020/0014594-8;Certificado de Acessibilidade;Despacho indeferido;08/06/2022;;;2023.10.09
+5fb7cb3433b1e100089b78f2;408-20-SP-NEW;1020.2020/0014712-6;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;15/03/2021;;;2023.10.09
+5fb7cb3433b1e100089b78f2;408-20-SP-NEW;1020.2020/0014712-6;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;29/06/2022;;;2023.10.09
+5fb7fd361ecf2f00089cdaa7;412-20-SP-NEW;1020.2020/0014892-0;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;10/05/2022;;;2023.10.09
+5fb7fe511ecf2f00089cdaaa;413-20-SP-SAO;1020.2020/0014516-6;Alvará de Execução de Edificação Nova (HIS/ HMP);Despacho deferido;20/01/2021;;;2023.10.09
+5fb808b20455c60008749a8a;415-20-SP-SAO;1020.2020/0014513-1;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;16/08/2022;;;2023.10.09
+5fb8100ed90a4400092fff6c;416-20-SP-SAO;1020.2020/0014515-8;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;23/12/2022;;;2023.10.09
+5fb836528704910008c8f612;417-20-SP-NEW;1020.2020/0014890-4;Certificado de Acessibilidade;Despacho indeferido;20/08/2021;;;2023.10.09
+5fb836528704910008c8f612;417-20-SP-NEW;1020.2020/0014890-4;Certificado de Acessibilidade;Despacho indeferido;08/10/2021;;;2023.10.09
+5fb836528704910008c8f612;417-20-SP-NEW;1020.2020/0014890-4;Certificado de Acessibilidade;Despacho indeferido;26/01/2022;;;2023.10.09
+5fb884108785e30008c093e4;419-20-SP-SAO;1020.2020/0014514-0;Alvará de Aprovação de Edificação Nova (HIS/ HMP);Despacho deferido;24/08/2022;;;2023.10.09
+5fbafd8edc38470009c64ca6;420-20-SP-SAO;1020.2020/0014595-6;Alvará de Aprovação de Edificação Nova (Exceto HIS/ HMP);Despacho deferido;20/08/2021;;;2023.10.09
+5fbbad6e74abbf0007625dbc;421-20-SP-NEW;1020.2020/0014889-0;Certificado de Segurança;Despacho indeferido;01/12/2021;;;2023.10.09
+5fbbad6e74abbf0007625dbc;421-20-SP-NEW;1020.2020/0014889-0;Certificado de Segurança;Despacho deferido;30/01/2023;;;2023.10.09
+5fbbbaf37040cd0008fee929;422-20-SP-SAO;1020.2020/0014519-0;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;02/03/2021;;;2023.10.09
+5fbbbfcee93a9700085a9b43;423-20-SP-NEW;1020.2020/0015154-9;Cadastro de Sistema Especial de Segurança;Despacho deferido;29/01/2021;;;2023.10.09
+5fbbd11d8af8570008e53ebd;425-20-SP-SAO;1020.2020/0014520-4;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;03/06/2021;;;2023.10.09
+5fbc02b859721f0008eda1d8;427-20-SP-NEW;1020.2020/0014591-3;Alvará de Funcionamento de Local de Reunião;Despacho indeferido;01/07/2021;;;2023.10.09
+5fbc02b859721f0008eda1d8;427-20-SP-NEW;1020.2020/0014591-3;Alvará de Funcionamento de Local de Reunião;Despacho indeferido;30/11/2021;;;2023.10.09
+5fbc3b12a4396f0008c63500;429-20-SP-NEW;1020.2020/0014592-1;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;29/06/2022;;;2023.10.09
+5fbc3ed3b5d0a30008e331f4;430-20-SP-NEW;1020.2020/0015968-0;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;19/05/2022;;;2023.10.09
+5fbce77101b13f0008d42c74;432-20-SP-NEW;1020.2020/0014597-2;Certificado de Estanqueidade;Despacho deferido;15/01/2021;;;2023.10.09
+5fbcfc0c72df7c0008630df2;433-20-SP-SAO;1020.2020/0014530-1;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;05/11/2021;;;2023.10.09
+5fbd0a5a09630000083bbcee;434-20-SP-SAO;1020.2020/0014954-4;Alvará de Aprovação e Execução de Edificação Nova (Exceto HIS/ HMP);Despacho indeferido;27/04/2023;;;2023.10.09
+5fbd18f2f887c200087201eb;435-20-SP-NEW;1020.2020/0015161-1;Certificado de Segurança;Despacho deferido;15/12/2021;;;2023.10.09
+5fbd3ae3eca0b10008b89a34;436-20-SP-NEW;1020.2020/0014876-9;Alvará de Funcionamento de Local de Reunião;Despacho indeferido;09/12/2020;;;2023.10.09
+5fbd3f7f659f3c0008ca3435;437-20-SP-NEW;1020.2020/0014959-5;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;15/06/2022;;;2023.10.09
+5fbd40d3659f3c0008ca3438;438-20-SP-SAO;1020.2020/0014536-0;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;20/06/2023;;;2023.10.09
+5fbd432486ef6c000806f8f5;439-20-SP-SAO;1020.2020/0014538-7;Alvará de Aprovação e Execução de Reforma (HIS/ HMP);Despacho deferido;02/03/2021;;;2023.10.09
+5fbd452ba777a1000aa54234;440-20-SP-SAO;1020.2020/0014551-4;Alvará de Aprovação de Edificação Nova (Exceto HIS/ HMP);Despacho indeferido;06/04/2021;;;2023.10.09
+5fbd452ba777a1000aa54234;440-20-SP-SAO;1020.2020/0014551-4;Alvará de Aprovação de Edificação Nova (Exceto HIS/ HMP);Despacho indeferido;02/09/2021;;;2023.10.09
+5fbd45a4a777a1000aa54237;441-20-SP-DIR;1020.2020/0014539-5;Certidão de Diretrizes Urbanísticas;Despacho deferido;19/08/2022;;;2023.10.09
+5fbd5e6195df4700087b4a54;443-20-SP-NEW;1020.2020/0015839-0;Certificado de Segurança;Despacho deferido;05/04/2023;;;2023.10.09
+5fbd6e4a5d211500090c5a69;444-20-SP-NEW;1020.2020/0015486-6;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;19/05/2022;;;2023.10.09
+5fbd6e995d211500090c5a6c;445-20-SP-SAO;1020.2020/0014546-8;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;10/08/2022;;;2023.10.09
+5fbd6fab5d211500090c5a6f;446-20-SP-NEW;1020.2020/0014877-7;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;10/05/2022;;;2023.10.09
+5fbd85b44e0a9f000861cc41;447-20-SP-NEW;1020.2020/0014878-5;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;08/06/2022;;;2023.10.09
+5fbd8c195659d800084005b9;448-20-SP-SAO;1020.2020/0014955-2;Alvará de Execução de Edificação Nova (Exceto HIS/ HMP);Despacho deferido;04/08/2021;;;2023.10.09
+5fbd8f85e26c220008d4fbc9;449-20-SP-NEW;1020.2020/0014940-4;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;07/04/2021;;;2023.10.09
+5fbd8f85e26c220008d4fbc9;449-20-SP-NEW;1020.2020/0014940-4;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;14/05/2021;;;2023.10.09
+5fbd91859deb0b00089febd8;450-20-SP-NEW;1020.2020/0014888-2;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;24/06/2022;;;2023.10.09
+5fbda44850626c0008afe7f0;453-20-SP-NEW;1020.2020/0014891-2;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;24/06/2022;;;2023.10.09
+5fbe3a5657015500082685a7;454-20-SP-SAO;1020.2020/0014552-2;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;13/08/2021;;;2023.10.09
+5fbe68b43877e1000895688f;455-20-SP-NEW;1020.2020/0015969-8;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;09/04/2021;;;2023.10.09
+5fbe68b43877e1000895688f;455-20-SP-NEW;1020.2020/0015969-8;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;09/04/2021;;;2023.10.09
+5fbe68b43877e1000895688f;455-20-SP-NEW;1020.2020/0015969-8;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;09/04/2021;;;2023.10.09
+5fbe68b43877e1000895688f;455-20-SP-NEW;1020.2020/0015969-8;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;09/04/2021;;;2023.10.09
+5fbe74c692cdb2000858a093;458-20-SP-NEW;1020.2020/0014596-4;Certificado de Estanqueidade;Despacho deferido;04/04/2023;;;2023.10.09
+5fbe782edacd79000819be89;459-20-SP-SAO;1020.2020/0014554-9;Alvará de Execução de Edificação Nova (HIS/ HMP);Despacho deferido;12/07/2021;;;2023.10.09
+5fbe8bf9cb928300089f7a9e;460-20-SP-SAO;1020.2020/0014555-7;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho deferido;21/03/2023;;;2023.10.09
+5fbe8d77cb928300089f7aa1;461-20-SP-SAO;1020.2020/0014557-3;Alvará de Execução de Edificação Nova (HIS/ HMP);Despacho deferido;12/08/2021;;;2023.10.09
+5fbe9cbc5fd2d70008d06686;462-20-SP-SAO;1020.2020/0014558-1;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;25/03/2022;;;2023.10.09
+5fbe9d305fd2d70008d06689;463-20-SP-SAO;1020.2020/0014559-0;Alvará de Execução de Edificação Nova (HIS/ HMP);Despacho deferido;06/04/2021;;;2023.10.09
+5fbeb3246814a30008a604bc;464-20-SP-SAO;1020.2020/0014560-3;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;15/07/2021;;;2023.10.09
+5fbfae7b3da9c60008ac4284;466-20-SP-NEW;1020.2020/0014972-2;Cadastro de tanque de armazenagem, bomba, filtro de combustível e equipamentos afins;Despacho indeferido;09/02/2022;;;2023.10.09
+5fbfae7b3da9c60008ac4284;466-20-SP-NEW;1020.2020/0014972-2;Cadastro de tanque de armazenagem, bomba, filtro de combustível e equipamentos afins;Despacho deferido;13/09/2023;;;2023.10.09
+5fbfaef13da9c60008ac4287;467-20-SP-SAO;1020.2020/0014565-4;Alvará de Aprovação e Execução de Edificação Nova (HIS/ HMP);Despacho indeferido;12/02/2021;;;2023.10.09
+5fbfb0a7268f1900089c6bca;468-20-SP-NEW;1020.2020/0015404-1;Cadastro de tanque de armazenagem, bomba, filtro de combustível e equipamentos afins;Despacho indeferido;29/09/2021;;;2023.10.09
+5fbfb0a7268f1900089c6bca;468-20-SP-NEW;1020.2020/0015404-1;Cadastro de tanque de armazenagem, bomba, filtro de combustível e equipamentos afins;Despacho deferido;06/02/2023;;;2023.10.09
+5fbfb9003fbd3500084a6d94;469-20-SP-SAO;1020.2020/0014564-6;Alvará de Execução de Edificação Nova (HIS/ HMP);Despacho deferido;22/02/2021;;;2023.10.09
+5fbfbac5da0ac80008963668;470-20-SP-SAO;1020.2020/0014566-2;Alvará de Aprovação de Edificação Nova (HIS/ HMP);Despacho deferido;13/04/2023;;;2023.10.09
+5fbfe32e5ecf91000946f075;472-20-SP-NEW;1020.2020/0015163-8;Alvará de Instalação de Heliponto;Despacho indeferido;28/01/2021;;;2023.10.09
+5fbfefa7a0afd90009d0a268;473-20-SP-SAO;1020.2020/0014960-9;Alvará de Aprovação de Edificação Nova (Exceto HIS/ HMP);Despacho deferido;06/12/2021;;;2023.10.09
+5fbff44e6ff0550008e49d04;475-20-SP-DIR;1020.2020/0014568-9;Certidão de Diretrizes Urbanísticas;Despacho indeferido;18/11/2021;;;2023.10.09
+5fbff44e6ff0550008e49d04;475-20-SP-DIR;1020.2020/0014568-9;Certidão de Diretrizes Urbanísticas;Despacho indeferido;19/08/2022;;;2023.10.09
+5fc015d83cbfc400089c5adb;477-20-SP-NEW;1020.2020/0015734-2;Certificado de Acessibilidade;Despacho indeferido;31/10/2022;;;2023.10.09
+5fc015d83cbfc400089c5adb;477-20-SP-NEW;1020.2020/0015734-2;Certificado de Acessibilidade;Despacho indeferido;19/03/2023;;;2023.10.09
+5fc059d17f40cc000998814f;480-20-SP-NEW;1020.2020/0015321-5;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;29/06/2022;;;2023.10.09
+5fc107c9a702360009ef47ff;481-20-SP-SAO;1020.2020/0014572-7;Alvará de Execução de Edificação Nova (HIS/ HMP);Despacho deferido;26/04/2021;;;2023.10.09
+5fc11c6a1c31b800084f45ad;482-20-SP-NEW;1020.2020/0014965-0;Certificado de Acessibilidade;Despacho indeferido;08/11/2021;;;2023.10.09
+5fc11cd21c31b800084f45b0;483-20-SP-INT;1020.2020/0014571-9;Alvará de Desmembramento + Alvará de Aprovação e Execução de Edificação Nova (Plano integrado);Despacho indeferido;27/06/2022;;;2023.10.09
+5fc11e66a9a4800009cbfd5f;484-20-SP-NEW;1020.2020/0015643-5;Certificado de Acessibilidade;Despacho indeferido;26/09/2022;;;2023.10.09
+5fc1488a4ffcfa00085ecbdd;486-20-SP-SAO;1020.2020/0014573-5;Alvará de Aprovação de Edificação Nova (HIS/ HMP);Despacho deferido;07/10/2021;;;2023.10.09
+5fc15165f2465e00082e8396;488-20-SP-SAO;1020.2020/0014961-7;Alvará de Execução de Edificação Nova (Exceto HIS/ HMP);Despacho deferido;11/03/2021;;;2023.10.09
+5fc1553cb5891800081faf4e;489-20-SP-DIR;1020.2020/0014574-3;Certidão de Diretrizes Urbanísticas;Despacho deferido;12/05/2022;;;2023.10.09
+5fc15ae3cf9b450008c7ea73;490-20-SP-NEW;1020.2020/0014575-1;Certificado de Acessibilidade;Despacho indeferido;03/11/2021;;;2023.10.09
+5fc16e53526e6e00087a8e38;492-20-SP-SAO;1020.2020/0014963-3;Alvará de Execução de Edificação Nova (Exceto HIS/ HMP);Despacho deferido;23/03/2021;;;2023.10.09
+5fc4f4d99a472200099ba8ff;494-20-SP-NEW;1020.2020/0015970-1;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;07/04/2021;;;2023.10.09
+5fc502a1b93c3700083844ff;495-20-SP-NEW;1020.2020/0015155-7;Alvará de Execução para instalação de Estação Rádio-Base;Despacho indeferido;29/06/2022;;;2023.10.09

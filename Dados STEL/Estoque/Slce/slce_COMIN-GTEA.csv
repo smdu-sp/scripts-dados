@@ -1,0 +1,530 @@
+dt_abertura,n_processos,n_protocolo,assunto,aditivo,tipo_requerimento,competencia,unidade,status
+2021-01-06 10:25:54,2021-0.000.026-4,39411-20,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-06 11:30:40,2021-0.000.029-9,39187-20,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-06 12:36:00,2021-0.000.041-8,36366-20,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-06 13:46:47,2021-0.000.056-6,39540-20,Alvará de Aprovação de Reforma,Projeto Modificativo,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-06 15:08:52,2021-0.000.071-0,38537-20,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-06 15:25:29,2021-0.000.074-4,39552-20,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-06 16:38:09,2021-0.000.077-9,185-21,Alvará de Aprovação de Edificação Nova,Apostilamento,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-06 20:00:24,2021-0.000.098-1,38706-20,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-06 20:00:24,2021-0.000.098-1,18174-21,Alvará de Aprovação de Edificação Nova,Inicial,1º Recurso,SMUL,COMIN-GTEA,Indeferido
+2021-01-06 20:16:08,2021-0.000.101-5,39374-20,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-07 18:44:43,2021-0.000.122-8,39162-20,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-11 18:08:42,2021-0.000.225-9,592-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-11 20:08:05,2021-0.000.243-7,39363-20,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-12 19:06:25,2021-0.000.291-7,272-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-13 18:41:23,2021-0.000.327-1,38779-20,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-13 19:21:49,2021-0.000.334-4,260-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-13 19:26:59,2021-0.000.335-2,298-21,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-13 19:55:58,2021-0.000.340-9,434-21,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-13 20:20:04,2021-0.000.346-8,38269-20,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-13 20:31:56,2021-0.000.350-6,38307-20,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-13 20:40:53,2021-0.000.352-2,99-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-13 20:55:00,2021-0.000.355-7,609-21,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-14 09:20:44,2021-0.000.361-1,30234-20,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-14 11:41:51,2021-0.000.365-4,566-21,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-14 18:56:53,2021-0.000.386-7,313-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-14 20:00:13,2021-0.000.404-9,35895-20,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-14 20:00:13,2021-0.000.404-9,20438-21,Alvará de Aprovação de Edificação Nova,Inicial,1º Recurso,SMUL,COMIN-GTEA,Indeferido
+2021-01-14 20:26:45,2021-0.000.409-0,36854-20,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-14 20:36:43,2021-0.000.411-1,38362-20,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-15 20:10:44,2021-0.000.458-8,39361-20,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-18 11:04:01,2021-0.000.479-0,900-21,Certificado de Conclusão,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-18 12:22:37,2021-0.000.483-9,496-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-19 07:21:24,2021-0.000.528-2,811-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-19 10:28:50,2021-0.000.536-3,29827-21,Alvará de Execução de Demolição,Inicial,1º Recurso,SMUL,COMIN-GTEA,Indeferido
+2021-01-19 10:28:50,2021-0.000.536-3,822-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-19 16:57:49,2021-0.000.563-0,29065-20,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-19 20:25:23,2021-0.000.599-1,417-21,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-20 10:03:04,2021-0.000.608-4,1289-21,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-20 10:48:22,2021-0.000.618-1,31700-20,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-20 10:48:22,2021-0.000.618-1,19280-21,Alvará de Execução de Demolição,Inicial,1º Recurso,SMUL,COMIN-GTEA,Indeferido
+2021-01-20 11:11:09,2021-0.000.626-2,31689-20,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-20 11:11:09,2021-0.000.626-2,19279-21,Alvará de Execução de Demolição,Inicial,1º Recurso,SMUL,COMIN-GTEA,Indeferido
+2021-01-21 18:51:21,2021-0.000.694-7,889-21,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-22 08:38:01,2021-0.000.734-0,1683-21,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-22 19:39:18,2021-0.000.770-6,1674-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-22 20:02:57,2021-0.000.781-1,1695-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-22 20:35:54,2021-0.000.793-5,1851-21,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-26 19:31:51,2021-0.000.827-3,1616-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-26 19:59:49,2021-0.000.833-8,1803-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-26 20:23:26,2021-0.000.838-9,1280-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-28 16:44:17,2021-0.000.890-7,2300-21,Certificado de Conclusão,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-28 19:08:49,2021-0.000.900-8,431-21,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-29 16:33:04,2021-0.000.933-4,37366-20,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-29 17:02:55,2021-0.000.935-0,1350-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-01-29 20:09:01,2021-0.000.953-9,2303-21,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-02 11:24:32,2021-0.000.976-8,352-21,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-02 11:45:42,2021-0.000.979-2,2327-21,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-02 17:58:51,2021-0.000.998-9,2187-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-02 19:18:05,2021-0.001.005-7,2287-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-04 08:48:22,2021-0.001.054-5,2440-21,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-04 09:46:37,2021-0.001.059-6,2355-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-04 15:59:27,2021-0.001.120-7,2368-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-04 17:12:11,2021-0.001.135-5,807-21,Certificado de Conclusão de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-04 19:56:31,2021-0.001.159-2,1911-21,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-04 20:17:28,2021-0.001.163-0,1190-21,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-04 20:26:28,2021-0.001.165-7,2100-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-05 20:17:27,2021-0.001.262-9,3205-21,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-08 19:37:23,2021-0.001.349-8,2702-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-08 19:53:06,2021-0.001.353-6,2836-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-08 20:04:35,2021-0.001.355-2,2913-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-08 20:22:28,2021-0.001.359-5,3006-21,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-09 11:51:03,2021-0.001.381-1,2730-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-09 13:08:58,2021-0.001.392-7,3624-21,Certificado de Conclusão de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-09 19:14:16,2021-0.001.412-5,38691-20,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-09 20:05:34,2021-0.001.429-0,3008-21,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-09 20:17:03,2021-0.001.432-0,2780-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-10 09:18:57,2021-0.001.452-4,3546-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-10 11:25:50,2021-0.001.465-6,1870-21,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-11 08:30:29,2021-0.001.497-4,3850-21,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-11 14:00:45,2021-0.001.542-3,16160-22,Alvará de Aprovação de Edificação Nova,Inicial,1º Recurso,SMUL,COMIN-GTEA,Indeferido
+2021-02-11 14:00:45,2021-0.001.542-3,33460-20,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-11 17:47:28,2021-0.001.565-2,4513-21,Alvará de Desdobro de Lote,Apostilamento,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-12 20:50:33,2021-0.001.700-0,3388-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-12 20:54:51,2021-0.001.702-7,3963-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-15 20:03:06,2021-0.001.747-7,3560-21,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-17 19:22:15,2021-0.001.846-5,4212-21,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-19 14:10:15,2021-0.001.937-2,578-21,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-22 10:18:02,2021-0.002.020-6,4971-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-22 16:39:38,2021-0.002.079-6,5164-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-22 16:43:23,2021-0.002.080-0,3804-21,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-22 19:43:46,2021-0.002.100-8,5338-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-22 19:47:57,2021-0.002.102-4,5030-21,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-22 19:55:31,2021-0.002.106-7,4443-21,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-22 19:56:15,2021-0.002.107-5,4647-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-22 20:24:33,2021-0.002.113-0,5084-21,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-22 22:55:31,2021-0.002.106-7,1250-22,Alvará de Aprovação de Reforma,Inicial,1º Recurso,SMUL,COMIN-GTEA,Indeferido
+2021-02-23 20:53:29,2021-0.002.163-6,2240-21,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-23 21:35:03,2021-0.002.174-1,3943-21,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-23 21:38:57,2021-0.002.176-8,4482-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-23 21:54:44,2021-0.002.179-2,39077-20,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-24 12:02:52,2021-0.002.205-5,6143-21,Alvará de Desmembramento de Lote,Apostilamento,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-24 14:02:52,2021-0.002.205-5,39379-21,Alvará de Desmembramento de Lote,Apostilamento,Reconsideração,SMUL,COMIN-GTEA,Indeferido
+2021-02-24 15:02:52,2021-0.002.205-5,4329-23,Alvará de Desmembramento de Lote,Apostilamento,1º Recurso,SMUL,COMIN-GTEA,Indeferido
+2021-02-24 19:31:52,2021-0.002.237-3,5350-21,Alvará de Reparcelamento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-25 08:39:37,2021-0.002.289-6,5094-21,Certificado de Conclusão,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-25 20:59:55,2021-0.002.355-8,2851-21,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-25 21:38:48,2021-0.002.365-5,5483-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-25 21:44:07,2021-0.002.366-3,5484-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-26 08:45:23,2021-0.002.371-0,5628-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-26 12:51:47,2021-0.002.380-9,5591-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-26 16:01:42,2021-0.002.392-2,5604-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-26 17:43:51,2021-0.002.397-3,5667-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-26 18:43:51,2021-0.002.397-3,30492-21,Alvará de Execução de Demolição,Inicial,1º Recurso,SMUL,COMIN-GTEA,Indeferido
+2021-02-26 18:53:22,2021-0.002.404-0,5531-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-02-26 21:08:12,2021-0.002.413-9,4509-21,Alvará de Aprovação de Reforma,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-03-02 16:42:42,2021-0.002.502-0,6275-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-03-02 17:23:09,2021-0.002.503-8,6331-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-03-02 20:59:26,2021-0.002.506-2,2987-21,Alvará de Execução de Edificação Nova,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-03-02 21:04:48,2021-0.002.508-9,6462-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-03-02 21:04:48,2021-0.002.508-9,37294-21,Alvará de Execução de Demolição,Inicial,1º Recurso,SMUL,COMIN-GTEA,Indeferido
+2021-03-03 13:08:49,2021-0.002.533-0,3988-21,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-03-03 21:39:19,2021-0.002.558-5,6537-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-03-03 21:48:32,2021-0.002.560-7,6525-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-03-04 07:08:19,2021-0.002.564-0,3138-21,Alvará de Aprovação de Edificação Nova,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-03-04 08:40:31,2021-0.002.571-2,6440-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-03-04 10:59:36,2021-0.002.581-0,5681-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-03-05 16:32:42,2021-0.002.676-0,7565-21,Alvará de Execução de Reforma,Apostilamento,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-03-08 16:18:09,2021-0.002.757-0,6254-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-03-09 15:24:46,2021-0.002.779-0,6623-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-03-09 21:03:22,2021-0.002.796-0,7177-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-03-10 08:41:50,2021-0.002.805-3,7477-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-03-11 15:27:15,2021-0.002.851-7,8225-21,Certificado de Conclusão,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-03-11 21:06:42,2021-0.002.866-5,7603-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-03-12 20:52:43,2021-0.002.899-1,7908-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-03-15 08:51:12,2021-0.002.919-0,30495-21,Alvará de Execução de Demolição,Inicial,1º Recurso,SMUL,COMIN-GTEA,Indeferido
+2021-03-15 08:51:12,2021-0.002.919-0,8016-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-03-17 17:37:22,2021-0.002.984-0,8326-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-03-17 17:38:49,2021-0.002.985-8,7981-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-03-17 19:27:58,2021-0.003.004-0,2786-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-03-17 20:24:20,2021-0.003.022-8,8044-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-03-18 18:19:15,2021-0.003.058-9,7574-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-03-18 18:19:15,2021-0.003.058-9,12644-22,Alvará de Desmembramento de Lote,Inicial,1º Recurso,SMUL,COMIN-GTEA,Indeferido
+2021-03-18 18:19:15,2021-0.003.058-9,8749-22,Alvará de Desmembramento de Lote,Inicial,Reconsideração,SMUL,COMIN-GTEA,Indeferido
+2021-03-22 13:29:40,2021-0.003.110-0,8892-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-03-24 14:10:09,2021-0.003.160-7,9064-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-03-24 17:43:53,2021-0.003.172-0,8321-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-03-24 21:48:35,2021-0.003.180-1,8053-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-03-25 07:49:10,2021-0.003.184-4,9350-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-03-25 15:08:59,2021-0.003.204-2,7214-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-04-01 10:36:08,2021-0.003.328-6,9131-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-04-01 15:21:27,2021-0.003.338-3,7695-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-04-01 19:11:39,2021-0.003.359-6,9883-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-04-06 21:58:41,2021-0.003.483-5,10409-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-04-08 19:07:18,2021-0.003.547-5,10679-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-04-08 19:47:38,2021-0.003.555-6,9873-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-04-08 20:02:59,2021-0.003.560-2,10514-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-04-09 19:00:03,2021-0.003.578-5,5549-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-04-12 21:53:10,2021-0.003.601-3,10865-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-04-13 20:58:26,2021-0.003.621-8,10740-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-04-13 21:03:36,2021-0.003.622-6,10743-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-04-13 21:24:06,2021-0.003.625-0,10896-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-04-15 16:32:27,2021-0.003.684-6,11658-21,Certificado de Conclusão de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-04-16 08:52:29,2021-0.003.722-2,11633-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-04-20 18:56:22,2021-0.003.799-0,11826-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-04-20 19:59:47,2021-0.003.812-1,9053-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-04-20 20:04:55,2021-0.003.815-6,9052-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-04-22 21:19:31,2021-0.003.856-3,11508-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-04-27 20:48:04,2021-0.003.928-4,11910-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-04-29 10:48:57,2021-0.003.970-5,12890-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-04-29 15:21:59,2021-0.003.979-9,12878-21,Alvará de Reparcelamento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-04-30 15:49:13,2021-0.004.005-3,13481-21,Certificado de Conclusão,Apostilamento,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-04-30 15:49:13,2021-0.004.005-3,39434-21,Certificado de Conclusão,Apostilamento,1º Recurso,SMUL,COMIN-GTEA,Indeferido
+2021-04-30 21:12:23,2021-0.004.043-6,13049-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-05-03 20:41:51,2021-0.004.087-8,13261-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-05-03 20:45:38,2021-0.004.088-6,13271-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-05-03 20:49:46,2021-0.004.089-4,13277-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-05-05 19:26:48,2021-0.004.152-1,10639-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-05-05 20:02:26,2021-0.004.167-0,11392-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-05-05 20:06:14,2021-0.004.168-8,11411-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-05-05 20:36:23,2021-0.004.175-0,13555-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-05-14 00:00:00,2021-0.004.352-4,14518-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-05-14 16:58:52,2021-0.004.293-5,14016-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-05-14 17:39:23,2021-0.004.334-6,12810-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-05-14 17:53:45,2021-0.004.356-7,14633-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-05-21 19:56:24,2021-0.004.629-9,14542-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-05-28 19:50:21,2021-0.004.757-0,16022-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-06-02 19:37:36,2021-0.004.854-2,10327-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-06-03 18:29:28,2021-0.004.872-0,15515-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-06-03 19:11:28,2021-0.004.881-0,15714-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-06-07 19:54:19,2021-0.004.952-2,17090-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-06-08 19:51:16,2021-0.004.982-4,16690-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-06-08 19:53:48,2021-0.004.983-2,16696-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-06-08 20:00:50,2021-0.004.984-0,16732-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-06-09 19:37:18,2021-0.005.018-0,16637-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-06-09 19:45:21,2021-0.005.019-9,16947-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-06-09 19:49:23,2021-0.005.020-2,16953-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-06-14 14:32:02,2021-0.005.087-3,12846-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-06-14 20:03:46,2021-0.005.109-8,17919-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-06-14 20:10:04,2021-0.005.110-1,17952-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-06-14 21:03:35,2021-0.005.117-9,17550-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-06-15 18:32:27,2021-0.005.149-7,18117-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-06-16 13:32:06,2021-0.005.172-1,18217-21,Certificado de Conclusão,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-06-16 20:23:47,2021-0.005.202-7,18190-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-06-17 19:14:47,2021-0.005.231-0,17405-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-06-17 19:18:48,2021-0.005.232-9,18074-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-06-18 18:40:14,2021-0.005.280-9,18130-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-06-21 19:36:13,2021-0.005.309-0,18213-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-06-21 19:41:48,2021-0.005.310-4,15009-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-06-21 19:51:25,2021-0.005.312-0,18033-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-06-21 20:19:45,2021-0.005.319-8,18128-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-06-22 18:12:48,2021-0.005.339-2,17604-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-06-22 18:34:29,2021-0.005.342-2,18805-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-06-23 18:26:25,2021-0.005.381-3,17486-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-06-23 18:30:19,2021-0.005.382-1,18788-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-06-23 19:07:40,2021-0.005.388-0,17327-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-06-23 19:42:44,2021-0.005.399-6,18900-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-06-23 19:46:55,2021-0.005.400-3,18901-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-06-28 10:39:24,2021-0.005.496-8,19747-21,Certificado de Conclusão de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-06-29 18:55:43,2021-0.005.538-7,17873-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-06-30 18:21:18,2021-0.005.566-2,18081-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-06-30 18:35:17,2021-0.005.569-7,19258-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-06-30 18:39:41,2021-0.005.570-0,19344-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-07-01 20:44:22,2021-0.005.622-7,19721-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-07-01 20:48:35,2021-0.005.623-5,19723-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-07-01 20:53:07,2021-0.005.624-3,19755-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-07-01 20:58:20,2021-0.005.626-0,19798-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-07-06 18:45:36,2021-0.005.742-8,19199-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-07-06 19:07:07,2021-0.005.747-9,20303-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-07-07 18:23:05,2021-0.005.767-3,18711-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-07-07 18:38:40,2021-0.005.774-6,19121-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-07-08 18:49:45,2021-0.005.838-6,19002-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-07-08 19:31:43,2021-0.005.847-5,17608-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-07-12 21:03:23,2021-0.005.891-2,20450-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-07-14 18:29:12,2021-0.005.959-5,14526-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-07-15 18:57:28,2021-0.006.015-1,21445-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-07-19 09:42:15,2021-0.006.049-6,15268-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-07-19 09:42:31,2021-0.006.050-0,15295-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-07-19 09:42:48,2021-0.006.051-8,15212-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-07-21 18:53:11,2021-0.006.096-8,20885-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-07-21 21:53:39,2021-0.006.122-0,21018-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-07-22 11:07:32,2021-0.006.126-3,20922-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-07-22 14:36:24,2021-0.006.134-4,21932-21,Certificado de Conclusão,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-07-22 21:43:35,2021-0.006.165-4,20797-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-07-23 17:10:29,2021-0.006.172-7,22154-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-07-23 17:35:34,2021-0.006.173-5,22691-21,Alvará de Execução de Edificação Nova,Apostilamento,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-07-28 18:11:52,2021-0.006.260-0,23188-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-07-29 09:47:53,2021-0.006.267-7,21825-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-07-29 14:17:27,2021-0.006.281-2,22276-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-07-29 14:18:31,2021-0.006.282-0,22281-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-07-29 15:12:48,2021-0.006.285-5,22303-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-07-30 07:11:22,2021-0.006.313-4,22282-21,Certificado de Conclusão,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-08-02 18:27:24,2021-0.006.394-0,21082-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-08-02 19:47:07,2021-0.006.410-6,23302-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-08-03 20:46:47,2021-0.006.475-0,20147-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-08-03 20:58:37,2021-0.006.478-5,21855-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-08-04 19:11:53,2021-0.006.490-4,23292-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-08-04 20:24:22,2021-0.006.498-0,23600-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-08-05 20:17:12,2021-0.006.551-0,22607-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-08-05 20:21:23,2021-0.006.553-6,23730-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-08-05 20:25:24,2021-0.006.554-4,23741-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-08-11 19:24:06,2021-0.006.699-0,24518-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-08-11 19:29:22,2021-0.006.700-8,24523-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-08-11 19:34:59,2021-0.006.702-4,24537-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-08-11 19:40:43,2021-0.006.703-2,24538-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-08-12 21:09:50,2021-0.006.748-2,24731-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-08-12 21:09:50,2021-0.006.748-2,675-22,Alvará de Execução de Demolição,Inicial,1º Recurso,SMUL,COMIN-GTEA,Indeferido
+2021-08-13 15:26:21,2021-0.006.755-5,24114-21,Certificado de Conclusão,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-08-13 19:52:19,2021-0.006.784-9,25093-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-08-13 20:17:54,2021-0.006.789-0,23981-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-08-13 20:22:08,2021-0.006.790-3,23986-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-08-16 20:24:28,2021-0.006.832-2,25260-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-08-17 19:24:15,2021-0.006.868-3,21596-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-08-17 19:31:39,2021-0.006.870-5,25184-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-08-17 19:57:49,2021-0.006.873-0,25335-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-08-18 19:19:33,2021-0.006.906-0,25317-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-08-18 19:23:11,2021-0.006.907-8,25320-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-08-18 20:35:07,2021-0.006.921-3,24745-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-08-19 11:58:20,2021-0.006.930-2,26139-21,Alvará de Aprovação de Reforma,Apostilamento,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-08-19 12:58:05,2021-0.006.931-0,26077-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-08-19 20:21:50,2021-0.006.970-1,25747-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-08-23 20:07:13,2021-0.007.089-0,25656-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-08-24 10:21:50,2021-0.007.106-4,26606-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-08-24 21:02:31,2021-0.007.147-1,26364-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-08-25 14:35:19,2021-0.007.184-6,26308-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-08-30 19:45:30,2021-0.007.313-0,25032-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-08-30 21:38:51,2021-0.007.334-2,23757-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-09-03 11:05:59,2021-0.007.471-3,27532-21,Certificado de Conclusão,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-09-08 18:30:40,2021-0.007.536-1,26279-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-09-09 18:50:46,2021-0.007.606-6,28362-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-09-09 19:19:43,2021-0.007.626-0,28200-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-09-10 18:10:01,2021-0.007.690-2,26187-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-09-10 18:37:27,2021-0.007.699-6,28261-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-09-16 17:55:04,2021-0.007.837-9,26822-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-09-16 19:03:20,2021-0.007.887-5,29046-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-09-16 19:56:40,2021-0.007.909-0,28708-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-09-16 20:10:14,2021-0.007.912-0,26833-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-09-16 20:55:13,2021-0.007.953-7,27284-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-09-21 18:49:11,2021-0.008.150-7,29805-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-09-24 00:00:00,2021-0.008.330-5,27831-21,Certificado de Conclusão,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-09-28 16:56:52,2021-0.008.399-2,31083-21,Alvará de Execução de Reforma,Apostilamento,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-09-28 16:56:52,2021-0.008.399-2,34192-22,Alvará de Execução de Reforma,Apostilamento,1º Recurso,SMUL,COMIN-GTEA,Indeferido
+2021-09-28 18:25:31,2021-0.008.402-6,29382-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-09-28 18:41:32,2021-0.008.415-8,30649-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-09-28 18:41:52,2021-0.008.416-6,29479-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-09-28 18:42:35,2021-0.008.420-4,29487-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-09-29 18:44:53,2021-0.008.463-8,27331-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-09-29 18:45:26,2021-0.008.466-2,29433-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-09-30 18:29:38,2021-0.008.524-3,30595-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-09-30 19:23:24,2021-0.008.545-6,30620-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-10-07 10:46:20,2021-0.008.755-6,31418-21,Certificado de Conclusão,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-10-07 10:46:20,2021-0.008.755-6,7277-22,Certificado de Conclusão,Inicial,1º Recurso,SMUL,COMIN-GTEA,Indeferido
+2021-10-13 17:44:42,2021-0.008.861-7,32732-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-10-13 18:29:50,2021-0.008.874-9,32331-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-10-14 15:13:51,2021-0.008.898-6,14641-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-10-14 18:18:57,2021-0.008.920-6,31815-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-10-14 19:43:32,2021-0.008.964-8,32352-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-10-18 18:41:21,2021-0.009.045-0,28813-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-10-19 14:55:28,2021-0.009.115-4,32820-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-10-21 10:47:06,2021-0.009.184-7,29819-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-10-21 18:13:35,2021-0.009.214-2,33112-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-10-25 11:33:41,2021-0.009.319-0,33486-21,Certificado de Conclusão,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-10-25 11:34:03,2021-0.009.322-0,32174-21,Certificado de Conclusão,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-10-25 11:48:42,2021-0.009.360-2,31754-21,Certificado de Conclusão,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-11-03 13:46:37,2021-0.009.631-8,34812-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-11-03 13:47:09,2021-0.009.633-4,34819-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-11-04 12:27:31,2021-0.009.683-0,34944-21,Alvará de Execução de Reforma,Apostilamento,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-11-04 19:12:26,2021-0.009.708-0,33435-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-11-04 19:12:34,2021-0.009.709-8,33436-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-11-04 19:12:44,2021-0.009.711-0,33438-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-11-04 19:12:52,2021-0.009.712-8,33440-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-11-04 19:13:02,2021-0.009.713-6,33444-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-11-04 19:13:11,2021-0.009.714-4,33445-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-11-04 19:13:19,2021-0.009.715-2,33447-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-11-04 19:31:24,2021-0.009.735-7,34685-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-11-08 18:28:01,2021-0.009.862-0,33699-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-11-08 18:28:48,2021-0.009.866-3,34549-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-11-08 18:41:42,2021-0.009.876-0,34911-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-11-09 18:46:49,2021-0.010.002-1,34282-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-11-09 18:47:04,2021-0.010.004-8,34367-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-11-10 18:19:42,2021-0.010.118-4,34553-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-11-10 18:23:27,2021-0.010.126-5,35137-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-11-11 17:30:52,2021-0.010.243-1,35631-21,Alvará de Execução de Edificação Nova,Apostilamento,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-11-11 18:19:00,2021-0.010.251-2,35141-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-11-11 18:19:44,2021-0.010.257-1,16112-22,Alvará de Execução de Demolição,Inicial,1º Recurso,SMUL,COMIN-GTEA,Indeferido
+2021-11-11 18:19:44,2021-0.010.257-1,35273-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-11-12 18:38:27,2021-0.010.316-0,11684-22,Alvará de Execução de Demolição,Inicial,1º Recurso,SMUL,COMIN-GTEA,Indeferido
+2021-11-12 18:38:27,2021-0.010.316-0,35458-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-11-16 18:44:23,2021-0.010.420-5,35133-21,Alvará de Desmembramento de Lote,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-11-17 17:13:48,2021-0.010.488-4,34180-21,Certificado de Conclusão,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-11-17 17:26:15,2021-0.010.544-9,34850-21,Certificado de Conclusão,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-11-17 18:20:38,2021-0.010.566-0,35640-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-11-17 18:23:59,2021-0.010.577-5,35380-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-11-17 18:24:32,2021-0.010.581-3,35641-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-11-18 18:57:15,2021-0.010.633-0,35781-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-11-19 18:31:53,2021-0.010.677-1,35295-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-11-23 18:37:18,2021-0.010.780-8,36060-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-11-25 00:00:00,2021-0.010.874-0,36598-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-11-25 18:16:08,2021-0.010.859-6,35400-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-11-25 18:19:40,2021-0.010.866-9,36177-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-11-25 18:28:12,2021-0.010.872-3,36663-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-11-26 14:30:32,2021-0.010.891-0,37106-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-11-26 18:20:18,2021-0.010.906-1,33708-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-11-29 18:53:49,2021-0.010.972-0,36764-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-12-02 18:34:04,2021-0.011.125-2,37461-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-12-03 18:11:17,2021-0.011.163-5,36528-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-12-08 12:56:53,2021-0.011.579-7,36642-21,Certificado de Conclusão de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-12-08 13:57:58,2021-0.011.652-1,35572-21,Certificado de Conclusão de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-12-09 18:47:26,2021-0.011.896-6,38332-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-12-10 18:37:24,2021-0.012.124-0,37267-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-12-13 18:32:32,2021-0.012.175-4,38402-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-12-15 10:00:47,2021-0.012.391-9,38483-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-12-16 00:00:00,2021-0.012.724-8,38712-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-12-17 18:19:02,2021-0.012.996-8,39117-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-12-17 18:25:07,2021-0.013.000-1,36864-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-12-17 18:25:32,2021-0.013.002-8,38422-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-12-22 18:31:01,2021-0.013.673-5,39464-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-12-22 18:31:14,2021-0.013.674-3,39466-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2021-12-23 11:00:47,2021-0.013.770-7,39853-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-01-06 18:51:14,2022-0.001.464-0,66-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-01-11 18:17:29,2022-0.002.609-5,40196-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-01-14 18:13:20,2022-0.004.011-0,420-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-01-17 15:52:24,2022-0.004.364-0,1175-22,Alvará de Desmembramento de Lote,Apostilamento,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-01-17 18:45:43,2022-0.004.370-4,991-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-01-18 18:39:58,2022-0.004.882-0,854-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-01-18 19:16:30,2022-0.004.907-9,848-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-01-19 18:09:54,2022-0.005.379-3,1698-22,Alvará de Desmembramento de Lote,Apostilamento,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-01-24 18:25:58,2022-0.006.267-9,1443-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-01-24 18:26:17,2022-0.006.268-7,1448-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-01-24 18:28:10,2022-0.006.280-6,1507-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-01-24 18:28:24,2022-0.006.281-4,1515-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-01-24 18:28:38,2022-0.006.282-2,1520-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-01-24 18:28:51,2022-0.006.283-0,1526-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-01-24 18:29:00,2022-0.006.284-9,1532-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-01-24 18:29:14,2022-0.006.285-7,1538-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-01-24 18:46:50,2022-0.006.294-6,1433-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-01-24 18:47:03,2022-0.006.295-4,1514-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-01-27 18:28:19,2022-0.006.997-5,39810-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-01-28 18:12:41,2022-0.007.367-0,836-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-02-03 18:06:39,2022-0.008.728-0,1746-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-02-07 16:14:24,2022-0.009.541-0,3580-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-02-07 18:32:04,2022-0.009.556-9,2907-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-02-09 18:19:40,2022-0.010.492-4,1104-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-02-10 10:27:21,2022-0.010.757-5,3991-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-02-14 15:59:42,2022-0.011.783-0,4107-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-02-14 18:30:21,2022-0.011.827-5,3093-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-02-15 18:48:30,2022-0.012.084-9,3794-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-02-16 18:13:35,2022-0.012.556-5,3422-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-02-17 11:36:57,2022-0.012.876-9,1321-22,Alvará de Execução de Demolição,Apostilamento,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-02-17 18:27:34,2022-0.012.976-5,1485-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-02-18 18:49:52,2022-0.013.477-7,3901-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-02-21 18:42:49,2022-0.013.949-3,4941-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-02-22 10:12:49,2022-0.014.121-8,5444-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-02-22 14:39:53,2022-0.014.340-7,3966-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-02-23 18:28:31,2022-0.014.782-8,5303-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-02-24 18:22:26,2022-0.015.227-9,5258-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-03-03 18:15:50,2022-0.015.832-3,6093-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-03-04 18:54:27,2022-0.016.057-3,6270-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-03-08 18:32:09,2022-0.016.578-8,6503-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-03-08 19:08:28,2022-0.016.599-0,3388-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-03-09 18:16:45,2022-0.016.887-6,3205-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-03-09 18:16:52,2022-0.016.888-4,3208-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-03-15 18:15:05,2022-0.018.177-5,6982-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-03-16 18:51:29,2022-0.018.524-0,5344-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-03-18 18:46:07,2022-0.019.211-4,7060-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-03-18 18:46:33,2022-0.019.214-9,7462-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-03-18 18:56:51,2022-0.019.232-7,7755-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-03-22 18:04:14,2022-0.019.769-8,6780-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-03-23 18:19:11,2022-0.019.982-8,5160-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-03-23 18:38:57,2022-0.020.009-5,31114-22,Alvará de Execução de Demolição,Inicial,1º Recurso,SMUL,COMIN-GTEA,Indeferido
+2022-03-23 18:38:57,2022-0.020.009-5,8497-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-03-28 18:09:16,2022-0.020.937-8,7768-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-03-28 18:35:55,2022-0.020.990-4,8743-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-03-28 19:57:05,2022-0.020.998-0,8752-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-04-05 18:12:49,2022-0.023.118-7,9748-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-04-07 12:20:06,2022-0.023.764-9,10512-22,Alvará de Execução de Edificação Nova,Apostilamento,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-04-08 18:29:25,2022-0.024.137-9,10090-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-04-25 10:22:28,2022-0.025.787-9,11713-22,Certificado de Conclusão,Inicial,Inicial,SMUL,COMIN-GTEA,Cancelado
+2022-04-25 10:22:40,2022-0.025.788-7,11722-22,Certificado de Conclusão,Inicial,Inicial,SMUL,COMIN-GTEA,Cancelado
+2022-04-27 12:11:13,2022-0.025.917-0,33906-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-04-27 18:24:53,2022-0.025.944-8,11118-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-04-29 18:30:41,2022-0.026.091-8,12036-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-05-02 18:12:04,2022-0.026.147-7,11651-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-05-09 18:21:06,2022-0.026.430-1,11608-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-05-09 18:26:48,2022-0.026.446-8,12082-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-05-09 18:27:20,2022-0.026.453-0,12084-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-05-23 19:03:22,2022-0.027.105-7,14272-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-05-25 18:09:25,2022-0.027.225-8,14826-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-05-26 12:07:28,2022-0.027.251-7,15096-22,Certificado de Conclusão,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-05-27 14:33:33,2022-0.027.317-3,15161-22,Certificado de Conclusão,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-05-31 18:17:54,2022-0.027.426-9,15429-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-06-01 18:16:31,2022-0.027.447-1,11619-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-06-06 09:05:02,2022-0.027.533-8,16029-22,Certificado de Conclusão,Inicial,Inicial,SMUL,COMIN-GTEA,Cancelado
+2022-06-07 18:10:44,2022-0.027.626-1,16200-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-06-10 18:05:36,2022-0.027.823-0,16652-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-06-15 18:04:04,2022-0.027.962-7,15776-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-06-21 18:04:03,2022-0.028.072-2,15783-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-06-21 18:04:11,2022-0.028.073-0,15786-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-06-27 18:04:51,2022-0.028.236-9,17718-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-06-29 18:07:49,2022-0.028.289-0,17920-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-07-05 18:04:11,2022-0.028.477-9,18185-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-07-08 15:53:44,2022-0.028.636-4,38129-21,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-07-12 18:06:04,2022-0.028.769-7,18783-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-08-01 18:26:37,2022-0.029.620-3,21570-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-08-02 14:51:01,2022-0.029.643-2,22039-22,Alvará de Execução de Edificação Nova,Apostilamento,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-08-04 18:20:48,2022-0.029.783-8,21963-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-08-08 18:05:12,2022-0.029.922-9,20952-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-08-15 00:00:00,2022-0.030.208-4,22557-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-08-24 10:38:27,2022-0.030.578-4,24479-22,Alvará de Execução de Edificação Nova,Apostilamento,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-09-01 15:42:32,2022-0.030.927-5,25419-22,Certificado de Conclusão,Apostilamento,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-09-14 18:16:07,2022-0.031.471-6,24120-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-09-14 18:16:15,2022-0.031.473-2,25231-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-09-20 18:38:15,2022-0.031.686-7,25610-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-09-20 18:38:26,2022-0.031.688-3,25641-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-09-20 18:38:36,2022-0.031.689-1,25648-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-10-03 18:22:19,2022-0.032.302-2,28259-22,Alvará de Aprovação de Edificação Nova,Projeto Modificativo,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-10-05 10:33:51,2022-0.032.384-7,28671-22,Alvará de Execução de Reforma,Apostilamento,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-10-14 11:50:40,2022-0.032.714-1,29446-22,Alvará de Execução de Edificação Nova,Apostilamento,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-10-19 18:07:14,2022-0.032.885-7,27859-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-10-24 18:09:45,2022-0.033.037-1,29351-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-11-01 18:19:59,2022-0.033.244-7,28187-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-11-01 18:21:42,2022-0.033.246-3,28226-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-11-01 18:21:52,2022-0.033.247-1,28227-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-11-01 18:23:07,2022-0.033.252-8,28094-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-11-01 18:23:22,2022-0.033.253-6,28210-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-11-01 18:23:30,2022-0.033.254-4,28242-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-11-01 18:27:19,2022-0.033.278-1,28964-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-11-01 18:27:36,2022-0.033.279-0,28984-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-11-01 18:29:17,2022-0.033.280-3,29431-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-11-01 18:52:54,2022-0.033.283-8,28977-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-11-01 18:52:59,2022-0.033.284-6,28980-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-11-04 18:06:57,2022-0.033.321-4,29484-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-11-04 18:14:15,2022-0.033.359-1,28098-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-11-11 10:52:47,2022-0.033.570-5,27677-22,Certificado de Conclusão,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-11-22 14:22:39,2022-0.033.930-1,32036-22,Certificado de Conclusão de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Cancelado
+2022-11-22 15:05:13,2022-0.033.945-0,32388-22,Certificado de Conclusão de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-11-22 15:05:26,2022-0.033.947-6,32393-22,Certificado de Conclusão de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-11-22 15:05:38,2022-0.033.949-2,32406-22,Certificado de Conclusão de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-12-09 18:06:22,2022-0.034.569-7,33472-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-12-09 18:07:45,2022-0.034.572-7,33470-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-12-09 18:07:55,2022-0.034.573-5,33479-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2022-12-20 10:05:06,2022-0.034.891-2,28397-22,Certificado de Conclusão,Apostilamento,Inicial,SMUL,COMIN-GTEA,Indeferido
+2023-01-11 18:08:37,2023-0.000.154-0,164-23,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2023-01-19 18:06:25,2023-0.000.373-9,35342-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2023-01-19 18:06:32,2023-0.000.374-7,35345-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2023-01-19 18:06:38,2023-0.000.375-5,35348-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2023-01-19 18:06:46,2023-0.000.376-3,35352-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2023-01-19 18:08:28,2023-0.000.377-1,35353-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2023-01-19 18:08:33,2023-0.000.378-0,35356-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2023-01-19 18:08:39,2023-0.000.379-8,35357-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2023-01-19 18:08:50,2023-0.000.380-1,35359-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2023-01-19 18:08:57,2023-0.000.381-0,35363-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2023-01-19 18:09:06,2023-0.000.382-8,35366-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2023-01-19 18:09:12,2023-0.000.383-6,35368-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2023-01-19 18:10:11,2023-0.000.387-9,35358-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2023-01-19 18:10:18,2023-0.000.388-7,35361-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2023-01-19 18:10:26,2023-0.000.389-5,35364-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2023-01-19 18:10:34,2023-0.000.390-9,35367-22,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2023-02-08 16:35:23,2023-0.000.889-7,3090-23,Alvará de Desmembramento de Lote,Apostilamento,Inicial,SMUL,COMIN-GTEA,Indeferido
+2023-03-07 18:08:53,2023-0.001.697-0,4516-23,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2023-03-17 13:00:16,2023-0.001.999-6,5631-23,Certificado de Conclusão,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2023-03-28 16:50:53,2023-0.002.399-3,7256-23,Alvará de Execução de Demolição,Apostilamento,Inicial,SMUL,COMIN-GTEA,Indeferido
+2023-03-29 10:22:18,2023-0.002.416-7,6843-23,Certificado de Conclusão de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2023-04-14 12:36:10,2023-0.003.007-8,8847-23,Alvará de Aprovação de Edificação Nova,Apostilamento,Inicial,SMUL,COMIN-GTEA,Indeferido
+2023-04-26 18:08:12,2023-0.003.337-9,9437-23,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2023-05-03 10:51:19,2023-0.003.479-0,10279-23,Alvará de Desdobro de Lote,Apostilamento,Inicial,SMUL,COMIN-GTEA,Indeferido
+2023-05-15 16:04:23,2023-0.003.802-8,11332-23,Certificado de Conclusão,Apostilamento,Inicial,SMUL,COMIN-GTEA,Indeferido
+2023-07-07 11:56:48,2023-0.005.330-2,12932-23,Certificado de Conclusão,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2023-07-07 18:30:54,2023-0.005.353-1,15769-23,Alvará de Execução de Demolição,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido
+2023-07-14 12:28:54,2023-0.005.551-8,14572-23,Certificado de Conclusão,Inicial,Inicial,SMUL,COMIN-GTEA,Indeferido

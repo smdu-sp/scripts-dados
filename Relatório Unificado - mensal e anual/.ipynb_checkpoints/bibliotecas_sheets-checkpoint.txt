@@ -1,0 +1,10 @@
+pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+pip install ezsheets
+pip install openpyxl
+
+conda install pandas
+conda install nbconvert
+conda install nbformat
+
+pip install mysql.connector
+pip install pymongo
