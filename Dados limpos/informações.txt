@@ -1,0 +1,4 @@
+Nosso trabalho não envolve a utilização de um banco de dados próprio. Em vez disso, focamos na extração de dados diretamente dos sistemas já existentes. Esses dados são então submetidos a um processo de limpeza e tratamento específico para atender às necessidades de cada demanda. O resultado desse processo é organizado em planilhas de Excel, que são utilizadas tanto para o atendimento das demandas quanto para a geração de relatórios unificados em formato PDF. Essa abordagem nos permite oferecer soluções personalizadas e eficientes, adaptando-nos às particularidades de cada demanda sem a necessidade de manter um banco de dados interno.
+
+Extrações mensais são exemplos de arquivos extraídos e limpos via script do banco do Aprova Digital.
+Relatório Unificado são arquivos de extrações brutos e limpos que geram o PDF do relatório unificado mensal.
