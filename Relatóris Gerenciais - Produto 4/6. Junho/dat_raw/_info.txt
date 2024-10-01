@@ -1,0 +1,9 @@
+SISTEMAS COM EXTRAÇÂO AUTOMÁTICA
+
+- Aprova Digital
+- SisSEL
+
+SISTEMAS COM EXTRAÇÃO MANUAL
+
+- SLCe
+- Portal do Licenciamento
